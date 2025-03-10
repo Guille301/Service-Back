@@ -1,0 +1,15 @@
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\bin\Debug\net8.0\Compartido.deps.json
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\bin\Debug\net8.0\Compartido.dll
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\bin\Debug\net8.0\Compartido.pdb
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.csproj.AssemblyReference.cache
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.AssemblyInfoInputs.cache
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.AssemblyInfo.cs
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.csproj.CoreCompileInputs.cache
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.csproj.Up2Date
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.dll
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\refint\Compartido.dll
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.pdb
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\ref\Compartido.dll
