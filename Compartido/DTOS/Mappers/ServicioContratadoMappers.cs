@@ -47,6 +47,11 @@ namespace Compartido.DTOS.Mappers
             }).ToList();
         }
 
+        //Servicio realizado o no 
+        public static void ActualizarEstado(LogicaNegocio.Entidades.ServicioContratado solicitud, ServicioRealizadoDTO Dto)
+        {
+            solicitud.Estado = Dto.Estado;
+        }
 
 
 

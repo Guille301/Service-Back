@@ -13,3 +13,4 @@ C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.d
 C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\refint\Compartido.dll
 C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.pdb
 C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\ref\Compartido.dll
+C:\Users\adril\OneDrive\Desktop\Service\Compartido\obj\Debug\net8.0\Compartido.sourcelink.json

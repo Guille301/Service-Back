@@ -96,6 +96,7 @@ namespace Service
             //Servicio contratado
             builder.Services.AddScoped<IListarSerContratadoPrestador, ListarServicioContratadoPrestador>();
             builder.Services.AddScoped<IListarSerContratadoCliente, ListarServicioContratadoCliente>();
+            builder.Services.AddScoped<IConfirmarRealizacion, ConfirmarRealizacion>();
 
 
             //Buscador 

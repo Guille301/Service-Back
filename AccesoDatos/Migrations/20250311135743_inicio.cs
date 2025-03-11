@@ -182,7 +182,7 @@ namespace AccesoDatos.Migrations
                     FechaHora = table.Column<DateTime>(type: "datetime2", nullable: false),
                     Lugar = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Datos = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Estado = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    Estado = table.Column<bool>(type: "bit", nullable: true),
                     PrestadorId = table.Column<int>(type: "int", nullable: true)
                 },
                 constraints: table =>

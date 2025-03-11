@@ -20,7 +20,7 @@ namespace Compartido.DTOS.ServicioContratado
         public string Datos { get; set; }
 
 
-        public string Estado { get; set; }
+        public bool? Estado { get; set; }
 
 
     }

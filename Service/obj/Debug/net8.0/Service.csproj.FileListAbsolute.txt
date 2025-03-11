@@ -174,3 +174,4 @@ C:\Users\adril\OneDrive\Desktop\Service\Service\bin\Debug\net8.0\ru\Microsoft.Co
 C:\Users\adril\OneDrive\Desktop\Service\Service\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\adril\OneDrive\Desktop\Service\Service\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\adril\OneDrive\Desktop\Service\Service\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\adril\OneDrive\Desktop\Service\Service\obj\Debug\net8.0\Service.sourcelink.json

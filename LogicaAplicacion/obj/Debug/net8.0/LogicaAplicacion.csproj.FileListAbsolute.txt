@@ -17,3 +17,4 @@ C:\Users\adril\OneDrive\Desktop\Service\LogicaAplicacion\obj\Debug\net8.0\Logica
 C:\Users\adril\OneDrive\Desktop\Service\LogicaAplicacion\obj\Debug\net8.0\refint\LogicaAplicacion.dll
 C:\Users\adril\OneDrive\Desktop\Service\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.pdb
 C:\Users\adril\OneDrive\Desktop\Service\LogicaAplicacion\obj\Debug\net8.0\ref\LogicaAplicacion.dll
+C:\Users\adril\OneDrive\Desktop\Service\LogicaAplicacion\obj\Debug\net8.0\LogicaAplicacion.sourcelink.json

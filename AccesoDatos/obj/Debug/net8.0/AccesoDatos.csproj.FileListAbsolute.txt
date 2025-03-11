@@ -15,3 +15,4 @@ C:\Users\adril\OneDrive\Desktop\Service\AccesoDatos\obj\Debug\net8.0\refint\Acce
 C:\Users\adril\OneDrive\Desktop\Service\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
 C:\Users\adril\OneDrive\Desktop\Service\AccesoDatos\obj\Debug\net8.0\AccesoDatos.genruntimeconfig.cache
 C:\Users\adril\OneDrive\Desktop\Service\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
+C:\Users\adril\OneDrive\Desktop\Service\AccesoDatos\obj\Debug\net8.0\AccesoDatos.sourcelink.json

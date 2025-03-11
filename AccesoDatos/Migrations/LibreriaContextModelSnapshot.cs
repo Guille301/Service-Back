@@ -297,9 +297,8 @@ namespace AccesoDatos.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Estado")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<bool?>("Estado")
+                        .HasColumnType("bit");
 
                     b.Property<DateTime>("FechaHora")
                         .HasColumnType("datetime2");

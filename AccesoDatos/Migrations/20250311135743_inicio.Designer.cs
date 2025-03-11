@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AccesoDatos.Migrations
 {
     [DbContext(typeof(LibreriaContext))]
-    [Migration("20250307144021_inicio")]
+    [Migration("20250311135743_inicio")]
     partial class inicio
     {
         /// <inheritdoc />
@@ -300,9 +300,8 @@ namespace AccesoDatos.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Estado")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<bool?>("Estado")
+                        .HasColumnType("bit");
 
                     b.Property<DateTime>("FechaHora")
                         .HasColumnType("datetime2");

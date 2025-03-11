@@ -1,5 +1,6 @@
 ﻿using Compartido.DTOS.Servicio;
 using Compartido.DTOS.ServicioContratado;
+using Compartido.DTOS.Solicitud;
 using LogicaAplicacion.ImplementacionCU.Prestador;
 using LogicaAplicacion.ImplementacionCU.ServicioContratado;
 using LogicaAplicacion.InterfaceCU.Prestador;
@@ -19,14 +20,16 @@ namespace Service.Controllers
 
         private readonly IListarSerContratadoPrestador _listarPrestador;
         private readonly IListarSerContratadoCliente _listarCliente;
+        private readonly IConfirmarRealizacion _confirmarRealizacion;
 
 
 
-        public ServicioContratadoController(IListarSerContratadoPrestador serContratadorPrestado, IListarSerContratadoCliente serContratadoCliente)
+        public ServicioContratadoController(IListarSerContratadoPrestador serContratadorPrestado, IListarSerContratadoCliente serContratadoCliente,IConfirmarRealizacion confirmarRealizacion)
         {
 
             _listarPrestador = serContratadorPrestado;
             _listarCliente = serContratadoCliente;
+            _confirmarRealizacion = confirmarRealizacion;
             
         }
 
@@ -62,6 +65,21 @@ namespace Service.Controllers
         }
 
 
+
+        //Confirmar realizacion
+        [HttpPut("Confirmar realizacion del servicio{id}")]
+        public IActionResult Put([FromBody] ServicioRealizadoDTO Dto)
+        {
+            try
+            {
+                _confirmarRealizacion.Realizado(Dto);
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { mensaje = ex.Message });
+            }
+        }
 
 
 

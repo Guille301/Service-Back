@@ -59,26 +59,17 @@ namespace LogicaAplicacion.ImplementacionCU.Solicitud
                         FechaHora = solicitudBuscada.FechaHora,
                         Lugar = solicitudBuscada.Lugar,
                         Datos = solicitudBuscada.Datos,
-                        Estado = "En proceso" // Estado inicial
+                        Estado = null
                     };
 
                     _repositorioServicioContratado.Add(servicioContratado);
                 }
 
 
-
-
-
-
-
-
-
-
-
             }
             catch (Exception ex)
             {
-                throw new Exception(ex.Message);
+                throw new Exception($"Error en Aprobar: {ex.Message}");
             }
         }
 

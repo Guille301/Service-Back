@@ -30,6 +30,8 @@ namespace AccesoDatos.Repositorio
         }
 
 
+        //Aqui traigo la lista de los servicios contratados del cliente
+
         public IEnumerable<ServicioContratado> ObtenerServiciosContratadosDeCliente(int id)
         {
             return _db.ServicioContratado
@@ -39,8 +41,23 @@ namespace AccesoDatos.Repositorio
         .ToList();
         }
 
+        //Con esto confirmo si el servicio se realizo o no 
+        public void ServicioRealizadoONo(ServicioContratado objeto)
+        {
+            var Original = _db.ServicioContratado.Find(objeto.Id);
+            try
+            {
+                Original.Estado = objeto.Estado;
 
 
+                _db.ServicioContratado.Update(Original);
+                _db.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error en el servicio contratado", ex);
+            }
+        }
 
 
 
@@ -49,7 +66,15 @@ namespace AccesoDatos.Repositorio
 
         public void Add(ServicioContratado obj)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _db.ServicioContratado.Add(obj);
+                _db.SaveChanges();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al agregar el servicio contratado", ex);
+            }
 
         }
 
@@ -70,7 +95,15 @@ namespace AccesoDatos.Repositorio
 
         public ServicioContratado FindById(int id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var ser = _db.ServicioContratado.Where(u => u.Id == id).FirstOrDefault();
+                return ser;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception("Error al obtener los servicios contratados", ex);
+            }
         }
 
        
@@ -80,6 +113,6 @@ namespace AccesoDatos.Repositorio
             throw new NotImplementedException();
         }
 
-       
+        
     }
 }

@@ -18,6 +18,10 @@ namespace LogicaNegocio.InterfacesRepositorios
         IEnumerable<ServicioContratado> ObtenerServiciosContratadosDeCliente(int id);
 
 
+        public void ServicioRealizadoONo(ServicioContratado objeto);
+
+
+
 
 
     }
