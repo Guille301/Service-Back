@@ -41,19 +41,30 @@ namespace AccesoDatos.Repositorio
 
             // Configuración de la relación muchos-a-muchos
             modelBuilder.Entity<ClienteAmigo>()
-                .HasKey(ca => new { ca.ClienteId, ca.AmigoId }); // Clave compuesta
+                .HasKey(ca => new { ca.ClienteId, ca.AmigoId }); 
 
             modelBuilder.Entity<ClienteAmigo>()
                 .HasOne(ca => ca.Cliente)
                 .WithMany(c => c.Amigos)
                 .HasForeignKey(ca => ca.ClienteId)
-                .OnDelete(DeleteBehavior.Restrict); // Evita la eliminación en cascada
+                .OnDelete(DeleteBehavior.Restrict); 
 
             modelBuilder.Entity<ClienteAmigo>()
                 .HasOne(ca => ca.Amigo)
                 .WithMany()
                 .HasForeignKey(ca => ca.AmigoId)
-                .OnDelete(DeleteBehavior.Restrict); // Evita la eliminación en cascada
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<ClienteAmigo>()
+        .HasKey(ca => ca.Id);
+
+            modelBuilder.Entity<ClienteAmigo>()
+                .Property(ca => ca.Id)
+                .ValueGeneratedOnAdd();
+
+
+
+
 
 
             //Solicitud

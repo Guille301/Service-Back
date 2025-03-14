@@ -81,6 +81,12 @@ namespace AccesoDatos.Migrations
                     b.Property<int>("AmigoId")
                         .HasColumnType("int");
 
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
                     b.HasKey("ClienteId", "AmigoId");
 
                     b.HasIndex("AmigoId");

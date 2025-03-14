@@ -113,7 +113,7 @@ namespace AccesoDatos.Repositorio
             }
             else
             {
-                throw new Exception("Disciplina no encontrada");
+                throw new Exception("cliente no encontrado");
             }
         }
 

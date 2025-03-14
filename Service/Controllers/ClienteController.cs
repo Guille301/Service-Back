@@ -64,7 +64,7 @@ namespace Service.Controllers
         }
 
 
-        // PUT api/<ClienteController>/5
+        // Editar
         [HttpPut("{id}")]
         public IActionResult Put(int id, [FromBody] EditarClienteDto editDto)
         {

@@ -14,10 +14,13 @@ namespace Service.Controllers
 
 
         private readonly IAgregarAmigos _agregarAmigos;
+        private readonly IEliminarAmigos _eliminarAmigos;
 
-        public AmigoController(IAgregarAmigos agregarAmigos)
+
+        public AmigoController(IAgregarAmigos agregarAmigos, IEliminarAmigos eliminarAmigos)
         {
             _agregarAmigos = agregarAmigos;
+            _eliminarAmigos = eliminarAmigos;
         }
 
 
@@ -41,8 +44,25 @@ namespace Service.Controllers
         }
 
 
+        //Eliminar
+        [HttpDelete("{id}")]
+        public IActionResult Delete(int id)
+        {
+
+            try
+            {
+                _eliminarAmigos.EliminarAmigos(id);
+
+                return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new { mensaje = $"No se pudo eliminar al amigo. Detalle: {ex.Message}" });
+            }
 
 
+
+        }
 
 
 

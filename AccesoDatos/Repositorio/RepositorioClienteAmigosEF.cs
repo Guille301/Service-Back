@@ -18,7 +18,7 @@ namespace AccesoDatos.Repositorio
         }
 
 
-        
+        //Alta de amigo
         public void Add(ClienteAmigo objeto)
         {
             try
@@ -39,9 +39,21 @@ namespace AccesoDatos.Repositorio
             }
         }
 
+
+        //Borrar amigo
         public void Delete(int id)
         {
-            throw new NotImplementedException();
+            var cli = _db.ClienteAmigo.Find(id);
+
+            if (cli != null)
+            {
+                _db.ClienteAmigo.Remove(cli);  
+                _db.SaveChanges();  
+            }
+            else
+            {
+                throw new Exception("amigo no encontrado");
+            }
         }
 
         public IEnumerable<ClienteAmigo> FindAll()
