@@ -8,15 +8,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Compartido.DTOS.Mappers
+namespace Compartido.Mappers
 {
     public class PrestadorMappers
     {
         //Alta
-        public static LogicaNegocio.Entidades.Prestador FromPrestadorAltaDto(PrestadorAltaDto altaDto)
+        public static Prestador FromPrestadorAltaDto(PrestadorAltaDto altaDto)
         {
-         
-            LogicaNegocio.Entidades.Prestador prestador = new LogicaNegocio.Entidades.Prestador
+
+            Prestador prestador = new Prestador
             {
                 Nombre = altaDto.Nombre,
                 Email = altaDto.Email,
@@ -26,10 +26,10 @@ namespace Compartido.DTOS.Mappers
                 Barrio = altaDto.Barrio,
                 Descripcion = altaDto.Descripcion,
                 ImagenesDeTrabajos = new byte[0], // Inicializa como null si no es requerido al alta
-                Servicios = new List<LogicaNegocio.Entidades.Servicio>(), // Inicializa como lista vacía
+                Servicios = new List<Servicio>(), // Inicializa como lista vacía
                 Comentarios = new List<ComentariosPrestador>(), // Inicializa como lista vacía
                 Mensajes = new List<Mensajes>(), // Inicializa como lista vacía
-                  FotoPerfil = string.IsNullOrEmpty(altaDto.FotoPerfil)
+                FotoPerfil = string.IsNullOrEmpty(altaDto.FotoPerfil)
                                             ? new byte[0]
                                       : Convert.FromBase64String(altaDto.FotoPerfil),
             };
@@ -42,7 +42,7 @@ namespace Compartido.DTOS.Mappers
 
 
         //Listar buscador
-        public static ListarPrestadorBuscadorDto FromPrestadorToListarPrestadorBuscador(LogicaNegocio.Entidades.Prestador prestador)
+        public static ListarPrestadorBuscadorDto FromPrestadorToListarPrestadorBuscador(Prestador prestador)
         {
             return new ListarPrestadorBuscadorDto
             {
@@ -55,9 +55,9 @@ namespace Compartido.DTOS.Mappers
 
 
         //Editar prestador
-        public static LogicaNegocio.Entidades.Prestador FromEditarPrestadorDto(EditarPrestadorDto editarPrestadorDto)
+        public static Prestador FromEditarPrestadorDto(EditarPrestadorDto editarPrestadorDto)
         {
-            return new LogicaNegocio.Entidades.Prestador(
+            return new Prestador(
                 editarPrestadorDto.Id,
                 editarPrestadorDto.Nombre,
                 editarPrestadorDto.Email,
@@ -71,7 +71,7 @@ namespace Compartido.DTOS.Mappers
 
 
         //Perfil prestador
-        public static PerfilPrestadorDTO DetallesCompletosPrestador(LogicaNegocio.Entidades.Prestador prestadorDetailsDto)
+        public static PerfilPrestadorDTO DetallesCompletosPrestador(Prestador prestadorDetailsDto)
         {
             return new PerfilPrestadorDTO
             {
@@ -83,7 +83,7 @@ namespace Compartido.DTOS.Mappers
                 Barrio = prestadorDetailsDto.Barrio,
                 Descripcion = prestadorDetailsDto.Descripcion,
                 FotoPerfil = prestadorDetailsDto.FotoPerfil,
-                ComentariosPrestador = prestadorDetailsDto.Comentarios?.Select(c => new Comentarios.ComentariosPrestador.MostrarComentariosPrestadorDTO
+                ComentariosPrestador = prestadorDetailsDto.Comentarios?.Select(c => new DTOS.Comentarios.ComentariosPrestador.MostrarComentariosPrestadorDTO
                 {
                     Contenido = c.Contenido,
                     Estrellas = c.Estrellas,
@@ -94,7 +94,7 @@ namespace Compartido.DTOS.Mappers
                     Nombre = s.Nombre,
                     Precio = s.Precio,
                     Descripcion = s.Descripcion,
-                    FotoServicio = s.ImagenesDeTrabajosSimilares 
+                    FotoServicio = s.ImagenesDeTrabajosSimilares
                 }).ToList()
             };
         }

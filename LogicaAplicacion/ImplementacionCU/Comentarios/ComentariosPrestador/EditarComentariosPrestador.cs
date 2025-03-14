@@ -1,6 +1,6 @@
 ﻿using Compartido.DTOS.Comentarios.ComentariosPrestador;
-using Compartido.DTOS.Mappers;
 using Compartido.DTOS.Prestador;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.Comentarios.ComentariosPrestador;
 using LogicaNegocio.InterfacesRepositorios;
 using System;

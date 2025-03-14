@@ -9,7 +9,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Compartido.DTOS.Mappers
+namespace Compartido.Mappers
 {
     public class ServicioMappers
     {
@@ -27,7 +27,7 @@ namespace Compartido.DTOS.Mappers
                                       : Convert.FromBase64String(altaDto.ImagenBase64),  // Si no hay imagen, guardamos null
                 PrestadorId = altaDto.PrestadorId,
                 Categorias = altaDto.NombreCategoria
-                
+
             };
 
             return servicio;
@@ -35,7 +35,7 @@ namespace Compartido.DTOS.Mappers
 
 
 
-     
+
 
         //Listar buscador
         public static ListarServicioChico FromServicioToListarServicioBuscador(LogicaNegocio.Entidades.Servicio servicio)

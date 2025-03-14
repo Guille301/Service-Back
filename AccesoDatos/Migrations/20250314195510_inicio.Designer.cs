@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AccesoDatos.Migrations
 {
     [DbContext(typeof(LibreriaContext))]
-    [Migration("20250311135743_inicio")]
+    [Migration("20250314195510_inicio")]
     partial class inicio
     {
         /// <inheritdoc />
@@ -74,6 +74,21 @@ namespace AccesoDatos.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Cliente");
+                });
+
+            modelBuilder.Entity("LogicaNegocio.Entidades.ClienteAmigo", b =>
+                {
+                    b.Property<int>("ClienteId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("AmigoId")
+                        .HasColumnType("int");
+
+                    b.HasKey("ClienteId", "AmigoId");
+
+                    b.HasIndex("AmigoId");
+
+                    b.ToTable("ClienteAmigo");
                 });
 
             modelBuilder.Entity("LogicaNegocio.Entidades.ComentariosPrestador", b =>
@@ -369,6 +384,25 @@ namespace AccesoDatos.Migrations
                     b.ToTable("Solicitud");
                 });
 
+            modelBuilder.Entity("LogicaNegocio.Entidades.ClienteAmigo", b =>
+                {
+                    b.HasOne("LogicaNegocio.Entidades.Cliente", "Amigo")
+                        .WithMany()
+                        .HasForeignKey("AmigoId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.HasOne("LogicaNegocio.Entidades.Cliente", "Cliente")
+                        .WithMany("Amigos")
+                        .HasForeignKey("ClienteId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Amigo");
+
+                    b.Navigation("Cliente");
+                });
+
             modelBuilder.Entity("LogicaNegocio.Entidades.ComentariosPrestador", b =>
                 {
                     b.HasOne("LogicaNegocio.Entidades.Cliente", "Cliente")
@@ -483,6 +517,8 @@ namespace AccesoDatos.Migrations
 
             modelBuilder.Entity("LogicaNegocio.Entidades.Cliente", b =>
                 {
+                    b.Navigation("Amigos");
+
                     b.Navigation("Comentarios");
 
                     b.Navigation("Mensajes");

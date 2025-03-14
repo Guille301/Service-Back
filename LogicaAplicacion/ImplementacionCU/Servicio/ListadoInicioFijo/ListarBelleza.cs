@@ -1,4 +1,5 @@
 ﻿using Compartido.DTOS.Servicio;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.Servicio.IListadoInicioFijo;
 using LogicaNegocio.InterfacesRepositorios;
 using System;
@@ -27,7 +28,7 @@ namespace LogicaAplicacion.ImplementacionCU.Servicio.ListadoInicioFijo
         {
             var servicio = _repositorioServicio.ObtenerServiciosBelleza();
 
-            var servicioDTO = servicio.Select(d => Compartido.DTOS.Mappers.ServicioMappers.FromServicioToListarServicioBuscador(d));
+            var servicioDTO = servicio.Select(d => ServicioMappers.FromServicioToListarServicioBuscador(d));
 
             return servicioDTO;
         }

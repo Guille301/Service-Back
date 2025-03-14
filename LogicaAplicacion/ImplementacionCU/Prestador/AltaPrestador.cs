@@ -1,7 +1,7 @@
 ﻿using Compartido.DTOS.Cliente;
-using Compartido.DTOS.Mappers;
 using Compartido.DTOS.Prestador;
 using Compartido.DTOS.Servicio;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.Prestador;
 using LogicaAplicacion.InterfaceCU.Servicio;
 using LogicaNegocio.InterfacesRepositorios;

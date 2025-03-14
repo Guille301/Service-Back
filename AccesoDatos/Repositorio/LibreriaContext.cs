@@ -31,9 +31,33 @@ namespace AccesoDatos.Repositorio
 
         public DbSet<Solicitud> Solicitud { get; set; }
 
+        public DbSet<ClienteAmigo> ClienteAmigo { get; set; }
+
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //Amigos
+
+            // Configuración de la relación muchos-a-muchos
+            modelBuilder.Entity<ClienteAmigo>()
+                .HasKey(ca => new { ca.ClienteId, ca.AmigoId }); // Clave compuesta
+
+            modelBuilder.Entity<ClienteAmigo>()
+                .HasOne(ca => ca.Cliente)
+                .WithMany(c => c.Amigos)
+                .HasForeignKey(ca => ca.ClienteId)
+                .OnDelete(DeleteBehavior.Restrict); // Evita la eliminación en cascada
+
+            modelBuilder.Entity<ClienteAmigo>()
+                .HasOne(ca => ca.Amigo)
+                .WithMany()
+                .HasForeignKey(ca => ca.AmigoId)
+                .OnDelete(DeleteBehavior.Restrict); // Evita la eliminación en cascada
+
+
+            //Solicitud
+
             modelBuilder.Entity<Solicitud>()
                 .HasOne(s => s.cliente)
                 .WithMany()  // Si Cliente tiene una lista de Solicitudes, aquí va .WithMany(c => c.Solicitudes)

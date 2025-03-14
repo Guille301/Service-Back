@@ -1,4 +1,5 @@
-﻿using LogicaAplicacion.InterfaceCU.Prestador;
+﻿using Compartido.Mappers;
+using LogicaAplicacion.InterfaceCU.Prestador;
 using LogicaNegocio.InterfacesRepositorios;
 using System;
 using System.Collections.Generic;
@@ -23,7 +24,7 @@ namespace LogicaAplicacion.ImplementacionCU.Prestador
         {
             var prestadores = _repositorioPrestador.FindAll();
 
-            var prestadoresDto = prestadores.Select(p => Compartido.DTOS.Mappers.PrestadorMappers.FromPrestadorToListarPrestadorBuscador(p));
+            var prestadoresDto = prestadores.Select(p => PrestadorMappers.FromPrestadorToListarPrestadorBuscador(p));
 
             return prestadoresDto;
         }

@@ -1,4 +1,5 @@
 ﻿using Compartido.DTOS.Cliente;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.Cliente;
 using LogicaNegocio.InterfacesRepositorios;
 using System;
@@ -27,7 +28,7 @@ namespace LogicaAplicacion.ImplementacionCU.Cliente
 
             var Clientes = _repositorioCliente.FindAll();
 
-            var clientesDto = Clientes.Select(d => Compartido.DTOS.Mappers.ClienteMappers.FromListarClientesBuscador(d));
+            var clientesDto = Clientes.Select(d => ClienteMappers.FromListarClientesBuscador(d));
 
             return clientesDto;
         }

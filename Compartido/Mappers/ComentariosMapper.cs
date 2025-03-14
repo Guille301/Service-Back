@@ -8,7 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Compartido.DTOS.Mappers
+namespace Compartido.Mappers
 {
     public class ComentariosMapper
     {

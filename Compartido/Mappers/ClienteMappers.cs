@@ -9,14 +9,14 @@ using System.Threading;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace Compartido.DTOS.Mappers
+namespace Compartido.Mappers
 {
     public class ClienteMappers
     {
         //ALTA cliente
-        public static LogicaNegocio.Entidades.Cliente FromClienteAltaDto(ClienteAltaDTO clienteAltaDto)
+        public static Cliente FromClienteAltaDto(ClienteAltaDTO clienteAltaDto)
         {
-            LogicaNegocio.Entidades.Cliente cliente = new LogicaNegocio.Entidades.Cliente
+            Cliente cliente = new Cliente
             {
                 Nombre = clienteAltaDto.Nombre,
                 Email = clienteAltaDto.Email,
@@ -38,22 +38,22 @@ namespace Compartido.DTOS.Mappers
 
         //Listar para buscador
 
-        public static ListarClientesBuscador FromListarClientesBuscador(LogicaNegocio.Entidades.Cliente cli)
+        public static ListarClientesBuscador FromListarClientesBuscador(Cliente cli)
         {
             return new ListarClientesBuscador
             {
                 Nombre = cli.Nombre,
                 Ciudad = cli.Ciudad,
-                
+
             };
         }
 
 
 
         //Editar datos de cliente
-        public static LogicaNegocio.Entidades.Cliente FromEditarClienteDto(EditarClienteDto clienteAltaDto)
+        public static Cliente FromEditarClienteDto(EditarClienteDto clienteAltaDto)
         {
-            return new LogicaNegocio.Entidades.Cliente(
+            return new Cliente(
                  clienteAltaDto.Id,
                  clienteAltaDto.Nombre,
                  clienteAltaDto.Email,
@@ -70,7 +70,7 @@ namespace Compartido.DTOS.Mappers
 
         //Perfil cliente
 
-        public static PerfilClienteDTO PerfilCliente(LogicaNegocio.Entidades.Cliente clienteDto)
+        public static PerfilClienteDTO PerfilCliente(Cliente clienteDto)
         {
             return new PerfilClienteDTO
             {
@@ -82,7 +82,7 @@ namespace Compartido.DTOS.Mappers
                 Barrio = clienteDto.Barrio,
                 FotoPerfil = clienteDto.FotoPerfil,
                 FechaDeNacimiento = clienteDto.FechaDeNacimiento
-              
+
             };
         }
 

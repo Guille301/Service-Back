@@ -1,5 +1,4 @@
-﻿using Compartido.DTOS.Mappers;
-using Compartido.DTOS.Prestador;
+﻿using Compartido.DTOS.Prestador;
 using Compartido.DTOS.Solicitud;
 using LogicaAplicacion.InterfaceCU.Solicitud;
 using LogicaNegocio.InterfacesRepositorios;
@@ -10,6 +9,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Compartido.Mappers;
 
 namespace LogicaAplicacion.ImplementacionCU.Solicitud
 {

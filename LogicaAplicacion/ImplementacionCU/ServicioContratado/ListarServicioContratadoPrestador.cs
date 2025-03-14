@@ -1,4 +1,5 @@
 ﻿using Compartido.DTOS.ServicioContratado;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.ServicioContratado;
 using LogicaNegocio.Entidades;
 using LogicaNegocio.InterfacesRepositorios;
@@ -33,7 +34,7 @@ namespace LogicaAplicacion.ImplementacionCU.ServicioContratado
             var servicioContratado = _repo.ObtenerServiciosContratadosDePrestador(id); 
 
 
-            var dto = Compartido.DTOS.Mappers.ServicioContratadoMappers.FromServicioContratadoListarPrestador(servicioContratado);
+            var dto = ServicioContratadoMappers.FromServicioContratadoListarPrestador(servicioContratado);
 
             return dto;
 

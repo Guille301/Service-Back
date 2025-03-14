@@ -1,5 +1,5 @@
-﻿using Compartido.DTOS.Mappers;
-using Compartido.DTOS.Servicio;
+﻿using Compartido.DTOS.Servicio;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.Servicio;
 using LogicaNegocio.InterfacesRepositorios;
 using System;

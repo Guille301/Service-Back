@@ -1,4 +1,5 @@
 ﻿using Compartido.DTOS.Solicitud;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.Solicitud;
 using LogicaNegocio.InterfacesRepositorios;
 using System;
@@ -28,7 +29,7 @@ namespace LogicaAplicacion.ImplementacionCU.Solicitud
 
             var servicio = _repo.SolicitudesPorPrestador(id);
 
-            var servicioDTO = Compartido.DTOS.Mappers.SolicitudMapper.FromListarSolicitudes(servicio);
+            var servicioDTO = SolicitudMapper.FromListarSolicitudes(servicio);
 
             return servicioDTO;
         }

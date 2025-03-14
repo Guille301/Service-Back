@@ -9,21 +9,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Compartido.DTOS.Mappers
+namespace Compartido.Mappers
 {
     public class ServicioContratadoMappers
     {
 
         //Listar servicios contratados por prestador
 
-        public static List<ListarServiciosContratadosPrestadorDTO> FromServicioContratadoListarPrestador(IEnumerable<LogicaNegocio.Entidades.ServicioContratado> Dto)
+        public static List<ListarServiciosContratadosPrestadorDTO> FromServicioContratadoListarPrestador(IEnumerable<ServicioContratado> Dto)
         {
             return Dto.Select(cli => new ListarServiciosContratadosPrestadorDTO
             {
                 ClienteId = cli.ClienteId,
                 ServicioId = cli.ServicioId,
-                FechaHora = cli.FechaHora,  
-                Lugar = cli.Lugar,  
+                FechaHora = cli.FechaHora,
+                Lugar = cli.Lugar,
                 Datos = cli.Datos,
                 Estado = cli.Estado
 
@@ -33,7 +33,7 @@ namespace Compartido.DTOS.Mappers
 
 
         //Servicios contratados por cliente
-        public static List<ListarServiciosContratadosClienteDTO> FromServicioContratadoListarCliente(IEnumerable<LogicaNegocio.Entidades.ServicioContratado> Dto)
+        public static List<ListarServiciosContratadosClienteDTO> FromServicioContratadoListarCliente(IEnumerable<ServicioContratado> Dto)
         {
             return Dto.Select(cli => new ListarServiciosContratadosClienteDTO
             {
@@ -48,7 +48,7 @@ namespace Compartido.DTOS.Mappers
         }
 
         //Servicio realizado o no 
-        public static void ActualizarEstado(LogicaNegocio.Entidades.ServicioContratado solicitud, ServicioRealizadoDTO Dto)
+        public static void ActualizarEstado(ServicioContratado solicitud, ServicioRealizadoDTO Dto)
         {
             solicitud.Estado = Dto.Estado;
         }

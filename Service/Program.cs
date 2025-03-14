@@ -1,5 +1,6 @@
 
 using AccesoDatos.Repositorio;
+using LogicaAplicacion.ImplementacionCU.Amigos;
 using LogicaAplicacion.ImplementacionCU.Buscador;
 using LogicaAplicacion.ImplementacionCU.Cliente;
 using LogicaAplicacion.ImplementacionCU.Comentarios.ComentariosPrestador;
@@ -9,6 +10,7 @@ using LogicaAplicacion.ImplementacionCU.Servicio;
 using LogicaAplicacion.ImplementacionCU.Servicio.ListadoInicioFijo;
 using LogicaAplicacion.ImplementacionCU.ServicioContratado;
 using LogicaAplicacion.ImplementacionCU.Solicitud;
+using LogicaAplicacion.InterfaceCU.AmigosInterface;
 using LogicaAplicacion.InterfaceCU.BuscadorInterface;
 using LogicaAplicacion.InterfaceCU.Cliente;
 using LogicaAplicacion.InterfaceCU.Comentarios.ComentariosPrestador;
@@ -52,6 +54,7 @@ namespace Service
             builder.Services.AddScoped<IRepositorioComentarioPrestador, RepositorioComentarioPrestadorEF>();
             builder.Services.AddScoped<IRepositorioComentarioServicio, RepositorioComentarioServicioEF>();
             builder.Services.AddScoped<IRepositorioSolicitud, RepositorioSolicitudEF>();
+            builder.Services.AddScoped<IRepositorioClienteAmigos, RepositorioClienteAmigosEF>();
 
 
 
@@ -121,6 +124,12 @@ namespace Service
             builder.Services.AddScoped<IEliminarSolicitud, EliminarSolicitud>();
             builder.Services.AddScoped<IListarSolicitudes, ListarSolicitudes>();
             builder.Services.AddScoped<IAprobarSolicitud, AprobarSolicitud>();
+
+
+
+            //Amigos
+            builder.Services.AddScoped<IAgregarAmigos, AgregarAmigos>();
+
 
 
 

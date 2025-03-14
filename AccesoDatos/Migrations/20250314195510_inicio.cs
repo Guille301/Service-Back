@@ -58,6 +58,30 @@ namespace AccesoDatos.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "ClienteAmigo",
+                columns: table => new
+                {
+                    ClienteId = table.Column<int>(type: "int", nullable: false),
+                    AmigoId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_ClienteAmigo", x => new { x.ClienteId, x.AmigoId });
+                    table.ForeignKey(
+                        name: "FK_ClienteAmigo_Cliente_AmigoId",
+                        column: x => x.AmigoId,
+                        principalTable: "Cliente",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_ClienteAmigo_Cliente_ClienteId",
+                        column: x => x.ClienteId,
+                        principalTable: "Cliente",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "ComentariosPrestador",
                 columns: table => new
                 {
@@ -244,6 +268,11 @@ namespace AccesoDatos.Migrations
                 });
 
             migrationBuilder.CreateIndex(
+                name: "IX_ClienteAmigo_AmigoId",
+                table: "ClienteAmigo",
+                column: "AmigoId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_ComentariosPrestador_ClienteId",
                 table: "ComentariosPrestador",
                 column: "ClienteId");
@@ -312,6 +341,9 @@ namespace AccesoDatos.Migrations
         /// <inheritdoc />
         protected override void Down(MigrationBuilder migrationBuilder)
         {
+            migrationBuilder.DropTable(
+                name: "ClienteAmigo");
+
             migrationBuilder.DropTable(
                 name: "ComentariosPrestador");
 

@@ -30,6 +30,11 @@ namespace LogicaNegocio.Entidades
         public List<Mensajes> Mensajes { get; set; } = new List<Mensajes>();
 
 
+        //Amigos
+        public List<ClienteAmigo> Amigos { get; set; } = new List<ClienteAmigo>();
+
+
+
 
         //Contraseña
 

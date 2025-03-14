@@ -599,11 +599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\Service\\LogicaNegocio\\LogicaNegocio.csproj",
+      "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj",
       "projectName": "LogicaNegocio",
-      "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Service\\LogicaNegocio\\LogicaNegocio.csproj",
+      "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj",
       "packagesPath": "C:\\Users\\adril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Service\\LogicaNegocio\\obj\\",
+      "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adril\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,4 +1,5 @@
 ﻿using Compartido.DTOS.Servicio;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.Prestador;
 using LogicaAplicacion.InterfaceCU.Servicio;
 using LogicaNegocio.Entidades;
@@ -29,7 +30,7 @@ namespace LogicaAplicacion.ImplementacionCU.Servicio
         {
             var servicio = _repositorioServicio.FiltroDeServicio(precioMinimo, precioMaximo, descripcion, zona);
 
-            var servicioDTO = servicio.Select(p => Compartido.DTOS.Mappers.ServicioMappers.FromServicioToListarServicioBuscador(p));
+            var servicioDTO = servicio.Select(p => ServicioMappers.FromServicioToListarServicioBuscador(p));
 
 
             return servicioDTO;

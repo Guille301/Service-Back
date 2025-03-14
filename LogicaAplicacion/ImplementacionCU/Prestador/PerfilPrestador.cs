@@ -1,4 +1,5 @@
 ﻿using Compartido.DTOS.Prestador;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.Prestador;
 using LogicaNegocio.Entidades;
 using LogicaNegocio.InterfacesRepositorios;
@@ -28,7 +29,7 @@ namespace LogicaAplicacion.ImplementacionCU.Prestador
 
             var prestador = _repositorioPrestador.MostrarPerfilPrestador(id);
 
-            var prestadorDto = Compartido.DTOS.Mappers.PrestadorMappers.DetallesCompletosPrestador(prestador);
+            var prestadorDto = PrestadorMappers.DetallesCompletosPrestador(prestador);
 
             // Retornar el DTO
             return prestadorDto;

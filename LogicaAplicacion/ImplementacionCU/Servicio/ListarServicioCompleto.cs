@@ -1,4 +1,5 @@
 ﻿using Compartido.DTOS.Servicio;
+using Compartido.Mappers;
 using LogicaAplicacion.InterfaceCU.Servicio;
 using LogicaNegocio.InterfacesRepositorios;
 using System;
@@ -26,7 +27,7 @@ namespace LogicaAplicacion.ImplementacionCU.Servicio
 
             var servicio = _repositorioServicio.MostrarServicioCompleto(id);
 
-            var servicioDTO = Compartido.DTOS.Mappers.ServicioMappers.MostrarTodosLosDatosServicio(servicio);
+            var servicioDTO = ServicioMappers.MostrarTodosLosDatosServicio(servicio);
 
             // Retornar el DTO
             return servicioDTO;

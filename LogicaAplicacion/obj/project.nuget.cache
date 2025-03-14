@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZJMkxYympp8r5g5q2038gAfQeuWB5sCLB1kxlCJdTdhZXUED2+d9TOAJQx19bhsc55vvYOC0OQb2XSCpSGZR+g==",
+  "dgSpecHash": "hMEUMc2mTSfBFBEIbcl0PjkMLf5AA7iP2LdZziChNWaT3S5Axbvs5AXV5T+gJWmAYu5OEnmQTPaludorwYFBlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adril\\OneDrive\\Desktop\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj",
+  "projectFilePath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adril\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\adril\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
