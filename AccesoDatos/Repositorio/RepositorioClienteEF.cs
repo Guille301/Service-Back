@@ -118,12 +118,14 @@ namespace AccesoDatos.Repositorio
         }
 
 
+
+        //Buscador de clientes
         public IEnumerable<Cliente> BuscarClientes(string critero)
         {
             try
             {
                 return _db.Cliente
-                         .Where(c => c.Nombre.Contains(critero) || c.Email.Contains(critero))
+                         .Where(c => c.Nombre.Contains(critero))
                          .ToList();
             }
             catch (Exception ex)
@@ -131,6 +133,8 @@ namespace AccesoDatos.Repositorio
                 throw new Exception("Error al buscar clientes", ex);
             }
         }
+
+
 
         // Voy a usar esto para mostrar el perfil
         public Cliente FindById(int id)
@@ -151,11 +155,7 @@ namespace AccesoDatos.Repositorio
 
 
 
-        public IEnumerable<Cliente> FindAllOrdenado()
-        {
-            throw new NotImplementedException();
-        }
-
+        
 
 
 

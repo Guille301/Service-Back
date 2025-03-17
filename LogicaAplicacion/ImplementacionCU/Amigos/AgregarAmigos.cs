@@ -37,16 +37,7 @@ namespace LogicaAplicacion.ImplementacionCU.Amigos
                 }
 
 
-
-                var clienteAmigo = new ClienteAmigo
-                {
-                    ClienteId = amigoDto.ClienteId,
-                    AmigoId = amigoDto.AmigoId
-                };
-
-
-
-                _repo.Add(clienteAmigo);
+                _repo.AddAmistadBidireccional(amigoDto.ClienteId,amigoDto.AmigoId);
 
 
             }

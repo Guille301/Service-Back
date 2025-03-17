@@ -23,10 +23,10 @@ namespace LogicaAplicacion.ImplementacionCU.Cliente
 
         }
 
-        public IEnumerable<ListarClientesBuscador> Ejecutar()
+        public IEnumerable<ListarClientesBuscador> Ejecutar(string criterio)
         {
 
-            var Clientes = _repositorioCliente.FindAll();
+            var Clientes = _repositorioCliente.BuscarClientes(criterio);
 
             var clientesDto = Clientes.Select(d => ClienteMappers.FromListarClientesBuscador(d));
 

@@ -93,11 +93,7 @@ namespace AccesoDatos.Repositorio
         }
 
 
-        public IEnumerable<Prestador> FindAllOrdenado()
-        {
-            throw new NotImplementedException();
-        }
-
+      
 
         public Prestador FindById(int id)
         {
@@ -129,6 +125,8 @@ namespace AccesoDatos.Repositorio
             }
         }
 
+
+        //Buscador
         public IEnumerable<Prestador> BuscarPrestadores(string criterio)
         {
             try

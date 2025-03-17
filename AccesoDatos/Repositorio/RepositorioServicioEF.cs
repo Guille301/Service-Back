@@ -229,10 +229,7 @@ namespace AccesoDatos.Repositorio
 
 
 
-        public IEnumerable<Servicio> FindAllOrdenado()
-        {
-            throw new NotImplementedException();
-        }
+     
 
         public Servicio FindById(int id)
         {

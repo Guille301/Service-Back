@@ -10,7 +10,7 @@ namespace Compartido.DTOS.Cliente
     {
 
         public string Nombre { get; set; }
-        public string Ciudad { get; set; }
+        public byte[] FotoPerfil { get; set; }
 
 
 

@@ -10,8 +10,13 @@ namespace LogicaNegocio.InterfacesRepositorios
     public interface IRepositorioClienteAmigos : IRepositorio<ClienteAmigo>
     {
 
+        public IEnumerable<ClienteAmigo> ListarAmigosPropios(int IdAmigos);
 
 
+        public IEnumerable<ClienteAmigo> ListarAmigosRecomendados(int clienteId);
+
+
+        public void AddAmistadBidireccional(int clienteId, int amigoId);
 
 
 

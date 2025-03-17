@@ -16,11 +16,16 @@ namespace Service.Controllers
         private readonly IAgregarAmigos _agregarAmigos;
         private readonly IEliminarAmigos _eliminarAmigos;
 
+        private readonly IListarAmigos _listarAmigos;
+        private readonly IListarAmigosRecomendados _listarAmigosRecomendados;
 
-        public AmigoController(IAgregarAmigos agregarAmigos, IEliminarAmigos eliminarAmigos)
+
+        public AmigoController(IAgregarAmigos agregarAmigos, IEliminarAmigos eliminarAmigos, IListarAmigos listarAmigos,IListarAmigosRecomendados listarRecomendados)
         {
             _agregarAmigos = agregarAmigos;
             _eliminarAmigos = eliminarAmigos;
+            _listarAmigos = listarAmigos;
+            _listarAmigosRecomendados = listarRecomendados;
         }
 
 
@@ -65,14 +70,39 @@ namespace Service.Controllers
         }
 
 
+        //Listar amigos propios
+
+        [HttpGet("ListarAmigosPropios{id}")]
+        public IActionResult ListarAmigosPropios(int id)
+        {
+            try
+            {
+                var cliente = _listarAmigos.ListarLosAmigosPropios(id);
+                return Ok(cliente);
+            }
+            catch (Exception ex)
+            {
+                return NotFound(new { mensaje = ex.Message });
+            }
+        }
 
 
 
+        //Listar amigos recomendados
 
-
-
-
-
+        [HttpGet("ListarAmigosRecomendados{id}")]
+        public IActionResult ListarAmigosRecomendados(int id)
+        {
+            try
+            {
+                var cliente = _listarAmigosRecomendados.ListarLosAmigosRecomendados(id);
+                return Ok(cliente);
+            }
+            catch (Exception ex)
+            {
+                return NotFound(new { mensaje = ex.Message });
+            }
+        }
 
 
 

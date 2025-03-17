@@ -11,7 +11,7 @@ namespace LogicaAplicacion.InterfaceCU.Cliente
     {
 
 
-        IEnumerable<ListarClientesBuscador> Ejecutar();
+        IEnumerable<ListarClientesBuscador> Ejecutar(string criterio);
 
 
     }

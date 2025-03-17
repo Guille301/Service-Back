@@ -49,13 +49,15 @@ namespace Service.Controllers
             }
         }
 
+
+        //Buscador de clientes
         [HttpGet("Cliente Buscador")]
-        public IActionResult GetBuscador()
+        public IActionResult GetBuscador(string criterio)
         {
             try
             {
-                var atletas = _clienteBuscador.Ejecutar();
-                return Ok(atletas);
+                var cli = _clienteBuscador.Ejecutar(criterio);
+                return Ok(cli);
             }
             catch (Exception ex)
             {
@@ -100,6 +102,8 @@ namespace Service.Controllers
 
         }
 
+
+        //Mostrar perfil del cliente
 
         [HttpGet("MostrarPerfil{id}")]
         public IActionResult MostrarPerfil(int id)

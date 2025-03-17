@@ -13,7 +13,6 @@ namespace LogicaNegocio.InterfacesRepositorios
         public void Delete(int id);
         public void Update(T objeto);
         public IEnumerable<T> FindAll();
-        public IEnumerable<T> FindAllOrdenado();
 
 
 

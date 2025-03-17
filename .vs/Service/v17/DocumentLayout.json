@@ -11,12 +11,136 @@
       "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\amigos\\agregaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\service\\controllers\\amigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|solutionrelative:service\\controllers\\amigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\interfacesrepositorios\\irepositorioclienteamigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositorioclienteamigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\amigos\\agregaramigosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\amigos\\agregaramigosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\repositorio\\repositorioprestadoref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositorio\\repositorioprestadoref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\repositorio\\repositorioclienteef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositorio\\repositorioclienteef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\entidades\\clienteamigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\clienteamigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|solutionrelative:service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\service\\controllers\\amigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|solutionrelative:service\\controllers\\amigocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\amigos\\listaramigosrecomendados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\amigos\\listaramigosrecomendados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\amigos\\listaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\amigos\\listaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\interfacecu\\amigosinterface\\ilistaramigosrecomendados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacecu\\amigosinterface\\ilistaramigosrecomendados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\amigos\\listaramigosrecomendadosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\amigos\\listaramigosrecomendadosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\interfacecu\\amigosinterface\\ilistaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacecu\\amigosinterface\\ilistaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\mappers\\amigomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\mappers\\amigomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\amigos\\listaramigosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\amigos\\listaramigosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\service\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|solutionrelative:service\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\cliente\\listarclientebuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\cliente\\listarclientebuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\interfacecu\\clienteinterface\\ilistarclientebuscado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacecu\\clienteinterface\\ilistarclientebuscado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\buscador\\buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\buscador\\buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\mappers\\clientemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\mappers\\clientemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\cliente\\listarclientesbuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\cliente\\listarclientesbuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\prestador\\listarprestadorbuscadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\prestador\\listarprestadorbuscadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\repositorio\\repositorioservicioef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositorio\\repositorioservicioef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\service\\controllers\\prestadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|solutionrelative:service\\controllers\\prestadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\entidades\\comentariosprestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\comentariosprestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\mappers\\serviciocontratadomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\mappers\\serviciocontratadomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\mappers\\prestadormappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\mappers\\prestadormappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\mappers\\comentariosmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\mappers\\comentariosmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\prestador\\listarprestadorbuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\prestador\\listarprestadorbuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\servicio\\listarserviciocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\servicio\\listarserviciocompleto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\amigos\\eliminaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\amigos\\eliminaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\interfacesrepositorios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\interfacesrepositorios\\irepositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\repositorio\\libreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,22 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\interfacecu\\amigosinterface\\iagregaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacecu\\amigosinterface\\iagregaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Migrations\\20250314210818_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Migrations\\20250314210818_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\repositorio\\repositorioclienteef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositorio\\repositorioclienteef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\entidades\\comentariosprestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\entidades\\comentariosprestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\entidades\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,20 +167,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AccesoDatos\\Migrations\\20250314203531_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|solutionrelative:service\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\interfacecu\\amigosinterface\\ieliminaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacecu\\amigosinterface\\ieliminaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\service\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|solutionrelative:service\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\amigos\\eliminaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\amigos\\eliminaramigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\cliente\\eliminarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -99,24 +195,12 @@
       "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\cliente\\editarcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\interfacesrepositorios\\irepositorioclienteamigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositorioclienteamigos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\repositorio\\repositorioservicioef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositorio\\repositorioservicioef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\repositorio\\repositorioserviciocontratadoef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositorio\\repositorioserviciocontratadoef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\repositorio\\repositoriocomentarioservicioef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositorio\\repositoriocomentarioservicioef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\amigos\\agregaramigosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\amigos\\agregaramigosdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\interfacecu\\clienteinterface\\ialtacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,44 +211,12 @@
       "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacecu\\buscadorinterface\\ibuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\mappers\\prestadormappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\mappers\\prestadormappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\mappers\\clientemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\mappers\\clientemappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\repositorio\\repositorioprestadoref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\repositorio\\repositorioprestadoref.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\interfacesrepositorios\\irepositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositoriocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\interfacesrepositorios\\irepositorioprestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositorioprestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\buscador\\buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\buscador\\buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\prestador\\listarprestadorbuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\prestador\\listarprestadorbuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\cliente\\listarclientebuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\cliente\\listarclientebuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\cliente\\perfilcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\implementacioncu\\cliente\\perfilcliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicanegocio\\interfacesrepositorios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B217526F-D847-48AA-9118-0B7C12E74DFC}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\interfacesrepositorios\\irepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\prestador\\altaprestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -225,10 +277,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\service\\controllers\\solicitudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|solutionrelative:service\\controllers\\solicitudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\mappers\\serviciocontratadomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\mappers\\serviciocontratadomappers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\serviciocontratado\\serviciorealizadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -351,10 +399,6 @@
       "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacecu\\serviciointerface\\ialtaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\mappers\\comentariosmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\mappers\\comentariosmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{1BB92B9F-BEA4-4829-BC62-AE94027B2160}|Service\\Service.csproj|solutionrelative:service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -385,10 +429,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\comentarios\\comentariosprestador\\altacomentarioprestadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\comentarios\\comentariosprestador\\altacomentarioprestadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\prestador\\listarprestadorbuscadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\prestador\\listarprestadorbuscadordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\implementacioncu\\comentarios\\comentariosservicios\\editarcomentariosservicios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -506,20 +546,16 @@
       "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\cliente\\editarclientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\interfacecu\\clienteinterface\\ilistarclientebuscado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacecu\\clienteinterface\\ilistarclientebuscado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\logicaaplicacion\\interfacecu\\prestadorinterface\\ialtaprestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{094C8687-B0DC-4D3E-98AE-4EF1270F4DA4}|LogicaAplicacion\\LogicaAplicacion.csproj|solutionrelative:logicaaplicacion\\interfacecu\\prestadorinterface\\ialtaprestador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\compartido\\dtos\\cliente\\listarclientesbuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AADD944-F492-4361-9E4C-2AAE005A4F51}|Compartido\\Compartido.csproj|solutionrelative:compartido\\dtos\\cliente\\listarclientesbuscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\accesodatos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|c:\\users\\adril\\onedrive\\desktop\\proyectoservice\\service\\accesodatos\\migrations\\20250314210818_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90C7B3E2-CE41-48E0-B001-27B7A8F2A006}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\migrations\\20250314210818_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -543,56 +579,56 @@
         },
         {
           "DockedWidth": 307,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Mensajes.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Mensajes.cs",
-              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Mensajes.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Mensajes.cs",
-              "RelativeToolTip": "LogicaNegocio\\Entidades\\Mensajes.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "RepositorioClienteAmigosEF.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioClienteAmigosEF.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioClienteAmigosEF.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioClienteAmigosEF.cs",
+              "RelativeToolTip": "AccesoDatos\\Repositorio\\RepositorioClienteAmigosEF.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:02:55.207Z",
+              "WhenOpened": "2025-03-14T19:06:20.464Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Servicio.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Servicio.cs",
-              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Servicio.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Servicio.cs",
-              "RelativeToolTip": "LogicaNegocio\\Entidades\\Servicio.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAcwCEAAAAuAAAA",
+              "DocumentIndex": 6,
+              "Title": "ClienteAmigo.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ClienteAmigo.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\ClienteAmigo.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ClienteAmigo.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\ClienteAmigo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T01:00:49.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ComentariosPrestador.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ComentariosPrestador.cs",
-              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\ComentariosPrestador.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ComentariosPrestador.cs",
-              "RelativeToolTip": "LogicaNegocio\\Entidades\\ComentariosPrestador.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAswDkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T20:15:49.836Z",
+              "WhenOpened": "2025-03-14T19:01:33.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Program.cs",
+              "RelativeDocumentMoniker": "Service\\Program.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Program.cs",
+              "RelativeToolTip": "Service\\Program.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAkwIcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T02:09:10.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "RepositorioClienteEF.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioClienteEF.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioClienteEF.cs",
               "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioClienteEF.cs",
               "RelativeToolTip": "AccesoDatos\\Repositorio\\RepositorioClienteEF.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAiAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAQwIgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T19:06:30.923Z",
               "EditorCaption": ""
@@ -605,22 +641,22 @@
               "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Cliente.cs",
               "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Cliente.cs",
               "RelativeToolTip": "LogicaNegocio\\Entidades\\Cliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAAAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAIwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T18:15:09.146Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IAgregarAmigos.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IAgregarAmigos.cs",
-              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IAgregarAmigos.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IAgregarAmigos.cs",
-              "RelativeToolTip": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IAgregarAmigos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "RepositorioPrestadorEF.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioPrestadorEF.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioPrestadorEF.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioPrestadorEF.cs",
+              "RelativeToolTip": "AccesoDatos\\Repositorio\\RepositorioPrestadorEF.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwHEAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:26:30.321Z",
+              "WhenOpened": "2025-03-14T19:14:37.129Z",
               "EditorCaption": ""
             },
             {
@@ -631,27 +667,378 @@
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Amigos\\AgregarAmigos.cs",
               "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Amigos\\AgregarAmigos.cs",
               "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Amigos\\AgregarAmigos.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAASwDAAAAAQAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAArwC4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-14T19:27:42.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RepositorioClienteAmigosEF.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioClienteAmigosEF.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioClienteAmigosEF.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioClienteAmigosEF.cs",
-              "RelativeToolTip": "AccesoDatos\\Repositorio\\RepositorioClienteAmigosEF.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAQAAAA",
+              "DocumentIndex": 3,
+              "Title": "AgregarAmigosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Amigos\\AgregarAmigosDTO.cs",
+              "RelativeDocumentMoniker": "Compartido\\DTOS\\Amigos\\AgregarAmigosDTO.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Amigos\\AgregarAmigosDTO.cs",
+              "RelativeToolTip": "Compartido\\DTOS\\Amigos\\AgregarAmigosDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:06:20.464Z",
+              "WhenOpened": "2025-03-14T19:22:13.079Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "IRepositorioClienteAmigos.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioClienteAmigos.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioClienteAmigos.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioClienteAmigos.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioClienteAmigos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:07:02.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AmigoController.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\AmigoController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\AmigoController.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\AmigoController.cs",
+              "RelativeToolTip": "Service\\Controllers\\AmigoController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAIwGAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:40:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ListarAmigos.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Amigos\\ListarAmigos.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Amigos\\ListarAmigos.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Amigos\\ListarAmigos.cs",
+              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Amigos\\ListarAmigos.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwCQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:41:08.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Service\\Controllers\\ClienteController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T02:13:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ListarAmigosRecomendadosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Amigos\\ListarAmigosRecomendadosDTO.cs",
+              "RelativeDocumentMoniker": "Compartido\\DTOS\\Amigos\\ListarAmigosRecomendadosDTO.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Amigos\\ListarAmigosRecomendadosDTO.cs",
+              "RelativeToolTip": "Compartido\\DTOS\\Amigos\\ListarAmigosRecomendadosDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:38:45.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IListarAmigosRecomendados.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IListarAmigosRecomendados.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IListarAmigosRecomendados.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IListarAmigosRecomendados.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IListarAmigosRecomendados.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:43:20.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListarAmigosRecomendados.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Amigos\\ListarAmigosRecomendados.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Amigos\\ListarAmigosRecomendados.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Amigos\\ListarAmigosRecomendados.cs",
+              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Amigos\\ListarAmigosRecomendados.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T13:44:58.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IListarClienteBuscado.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IListarClienteBuscado.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IListarClienteBuscado.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IListarClienteBuscado.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IListarClienteBuscado.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:17:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ListarClienteBuscador.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Cliente\\ListarClienteBuscador.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Cliente\\ListarClienteBuscador.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Cliente\\ListarClienteBuscador.cs",
+              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Cliente\\ListarClienteBuscador.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:16:52.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ListarAmigosDTO.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Amigos\\ListarAmigosDTO.cs",
+              "RelativeDocumentMoniker": "Compartido\\DTOS\\Amigos\\ListarAmigosDTO.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Amigos\\ListarAmigosDTO.cs",
+              "RelativeToolTip": "Compartido\\DTOS\\Amigos\\ListarAmigosDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:35:43.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IListarAmigos.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IListarAmigos.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IListarAmigos.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IListarAmigos.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IListarAmigos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:40:55.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Buscador.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Buscador\\Buscador.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Buscador\\Buscador.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Buscador\\Buscador.cs",
+              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Buscador\\Buscador.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T22:47:34.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AmigoMappers.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\AmigoMappers.cs",
+              "RelativeDocumentMoniker": "Compartido\\Mappers\\AmigoMappers.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\AmigoMappers.cs",
+              "RelativeToolTip": "Compartido\\Mappers\\AmigoMappers.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADgvx0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:37:39.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ListarClientesBuscador.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Cliente\\ListarClientesBuscador.cs",
+              "RelativeDocumentMoniker": "Compartido\\DTOS\\Cliente\\ListarClientesBuscador.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Cliente\\ListarClientesBuscador.cs",
+              "RelativeToolTip": "Compartido\\DTOS\\Cliente\\ListarClientesBuscador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:09:20.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ComentariosPrestador.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ComentariosPrestador.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\ComentariosPrestador.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ComentariosPrestador.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\ComentariosPrestador.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswDkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T20:15:49.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClienteMappers.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ClienteMappers.cs",
+              "RelativeDocumentMoniker": "Compartido\\Mappers\\ClienteMappers.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ClienteMappers.cs",
+              "RelativeToolTip": "Compartido\\Mappers\\ClienteMappers.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T18:26:35.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ListarPrestadorBuscadorDto.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Prestador\\ListarPrestadorBuscadorDto.cs",
+              "RelativeDocumentMoniker": "Compartido\\DTOS\\Prestador\\ListarPrestadorBuscadorDto.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Prestador\\ListarPrestadorBuscadorDto.cs",
+              "RelativeToolTip": "Compartido\\DTOS\\Prestador\\ListarPrestadorBuscadorDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:36:26.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RepositorioServicioEF.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioServicioEF.cs",
+              "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioServicioEF.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioServicioEF.cs",
+              "RelativeToolTip": "AccesoDatos\\Repositorio\\RepositorioServicioEF.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAuwHsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T03:01:29.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PrestadorController.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\PrestadorController.cs",
+              "RelativeDocumentMoniker": "Service\\Controllers\\PrestadorController.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\PrestadorController.cs",
+              "RelativeToolTip": "Service\\Controllers\\PrestadorController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAcwHgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:55:27.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServicioContratadoMappers.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ServicioContratadoMappers.cs",
+              "RelativeDocumentMoniker": "Compartido\\Mappers\\ServicioContratadoMappers.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ServicioContratadoMappers.cs",
+              "RelativeToolTip": "Compartido\\Mappers\\ServicioContratadoMappers.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T02:09:40.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PrestadorMappers.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\PrestadorMappers.cs",
+              "RelativeDocumentMoniker": "Compartido\\Mappers\\PrestadorMappers.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\PrestadorMappers.cs",
+              "RelativeToolTip": "Compartido\\Mappers\\PrestadorMappers.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAWwFoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:32:57.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ComentariosMapper.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ComentariosMapper.cs",
+              "RelativeDocumentMoniker": "Compartido\\Mappers\\ComentariosMapper.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ComentariosMapper.cs",
+              "RelativeToolTip": "Compartido\\Mappers\\ComentariosMapper.cs",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAIwGgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:12:56.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ListarPrestadorBuscador.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Prestador\\ListarPrestadorBuscador.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Prestador\\ListarPrestadorBuscador.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Prestador\\ListarPrestadorBuscador.cs",
+              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Prestador\\ListarPrestadorBuscador.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T20:45:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ListarServicioCompleto.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Servicio\\ListarServicioCompleto.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Servicio\\ListarServicioCompleto.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Servicio\\ListarServicioCompleto.cs",
+              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Servicio\\ListarServicioCompleto.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T12:44:48.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EliminarAmigos.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Amigos\\EliminarAmigos.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Amigos\\EliminarAmigos.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Amigos\\EliminarAmigos.cs",
+              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Amigos\\EliminarAmigos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T20:21:45.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T02:10:47.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRepositorioCliente.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioCliente.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioCliente.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioCliente.cs",
+              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioCliente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T19:07:36.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "LibreriaContext.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\LibreriaContext.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\LibreriaContext.cs",
@@ -659,25 +1046,47 @@
               "RelativeToolTip": "AccesoDatos\\Repositorio\\LibreriaContext.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAcwEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:20:04.203Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T02:20:04.203Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ClienteAmigo.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ClienteAmigo.cs",
-              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\ClienteAmigo.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ClienteAmigo.cs",
-              "RelativeToolTip": "LogicaNegocio\\Entidades\\ClienteAmigo.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB0AAAAKAAAA",
+              "DocumentIndex": 36,
+              "Title": "IAgregarAmigos.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IAgregarAmigos.cs",
+              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IAgregarAmigos.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IAgregarAmigos.cs",
+              "RelativeToolTip": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IAgregarAmigos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:01:33.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T19:26:30.321Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 37,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Servicio.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Servicio.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Servicio.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Servicio.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAcwCEAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T01:00:49.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Mensajes.cs",
+              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Mensajes.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Mensajes.cs",
+              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Mensajes.cs",
+              "RelativeToolTip": "LogicaNegocio\\Entidades\\Mensajes.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAiwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T02:02:55.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
               "Title": "ComentariosServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ComentariosServicio.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\ComentariosServicio.cs",
@@ -685,25 +1094,11 @@
               "RelativeToolTip": "LogicaNegocio\\Entidades\\ComentariosServicio.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAYwA8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T01:01:55.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T01:01:55.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AmigoController.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\AmigoController.cs",
-              "RelativeDocumentMoniker": "Service\\Controllers\\AmigoController.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\AmigoController.cs",
-              "RelativeToolTip": "Service\\Controllers\\AmigoController.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAUwCMAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:40:44.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 138,
               "Title": "20250314210818_inicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Migrations\\20250314210818_inicio.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\20250314210818_inicio.cs",
@@ -711,12 +1106,11 @@
               "RelativeToolTip": "AccesoDatos\\Migrations\\20250314210818_inicio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T21:08:18.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T21:08:18.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 41,
               "Title": "IEliminarAmigos.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IEliminarAmigos.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IEliminarAmigos.cs",
@@ -724,38 +1118,11 @@
               "RelativeToolTip": "LogicaAplicacion\\InterfaceCU\\AmigosInterface\\IEliminarAmigos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:22:08.376Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T20:22:08.376Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Program.cs",
-              "RelativeDocumentMoniker": "Service\\Program.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Program.cs",
-              "RelativeToolTip": "Service\\Program.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAAAIMAAABGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:09:10.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "Service\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "Service\\Controllers\\ClienteController.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAwwFUAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:13:41.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 43,
               "Title": "IEliminarCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IEliminarCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IEliminarCliente.cs",
@@ -763,12 +1130,11 @@
               "RelativeToolTip": "LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IEliminarCliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T21:41:19.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T21:41:19.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 42,
               "Title": "EliminarCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Cliente\\EliminarCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Cliente\\EliminarCliente.cs",
@@ -776,12 +1142,11 @@
               "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Cliente\\EliminarCliente.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T21:40:27.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-27T21:40:27.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 40,
               "Title": "20250314203531_inicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Migrations\\20250314203531_inicio.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Migrations\\20250314203531_inicio.cs",
@@ -789,12 +1154,11 @@
               "RelativeToolTip": "AccesoDatos\\Migrations\\20250314203531_inicio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:35:32.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-14T20:35:32.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 44,
               "Title": "AltaCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Cliente\\AltaCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Cliente\\AltaCliente.cs",
@@ -806,20 +1170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EliminarAmigos.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Amigos\\EliminarAmigos.cs",
-              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Amigos\\EliminarAmigos.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Amigos\\EliminarAmigos.cs",
-              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Amigos\\EliminarAmigos.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T20:21:45.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 45,
               "Title": "ClienteAltaDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Cliente\\ClienteAltaDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Cliente\\ClienteAltaDTO.cs",
@@ -831,7 +1182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 46,
               "Title": "BuscadorController.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\BuscadorController.cs",
               "RelativeDocumentMoniker": "Service\\Controllers\\BuscadorController.cs",
@@ -843,31 +1194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IRepositorioClienteAmigos.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioClienteAmigos.cs",
-              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioClienteAmigos.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioClienteAmigos.cs",
-              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioClienteAmigos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:07:02.329Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "RepositorioServicioEF.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioServicioEF.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioServicioEF.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioServicioEF.cs",
-              "RelativeToolTip": "AccesoDatos\\Repositorio\\RepositorioServicioEF.cs",
-              "ViewState": "AQIAAMAAAAAAAAAAAAAkwOUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T03:01:29.426Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 48,
               "Title": "RepositorioServicioContratadoEF.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioServicioContratadoEF.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioServicioContratadoEF.cs",
@@ -879,7 +1206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 49,
               "Title": "RepositorioComentarioServicioEF.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioComentarioServicioEF.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioComentarioServicioEF.cs",
@@ -891,19 +1218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "AgregarAmigosDTO.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Amigos\\AgregarAmigosDTO.cs",
-              "RelativeDocumentMoniker": "Compartido\\DTOS\\Amigos\\AgregarAmigosDTO.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Amigos\\AgregarAmigosDTO.cs",
-              "RelativeToolTip": "Compartido\\DTOS\\Amigos\\AgregarAmigosDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:22:13.079Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 47,
               "Title": "EditarCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Cliente\\EditarCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Cliente\\EditarCliente.cs",
@@ -915,7 +1230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 51,
               "Title": "IBuscador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\BuscadorInterface\\IBuscador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\BuscadorInterface\\IBuscador.cs",
@@ -927,31 +1242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "RepositorioPrestadorEF.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioPrestadorEF.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioPrestadorEF.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioPrestadorEF.cs",
-              "RelativeToolTip": "AccesoDatos\\Repositorio\\RepositorioPrestadorEF.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:14:37.129Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IRepositorioCliente.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioCliente.cs",
-              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioCliente.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioCliente.cs",
-              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioCliente.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T19:07:36.408Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 50,
               "Title": "IAltaCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IAltaCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IAltaCliente.cs",
@@ -963,7 +1254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 52,
               "Title": "IRepositorioPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioPrestador.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioPrestador.cs",
@@ -975,43 +1266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "PrestadorMappers.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\PrestadorMappers.cs",
-              "RelativeDocumentMoniker": "Compartido\\Mappers\\PrestadorMappers.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\PrestadorMappers.cs",
-              "RelativeToolTip": "Compartido\\Mappers\\PrestadorMappers.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAASwFoAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T17:32:57.244Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ClienteMappers.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ClienteMappers.cs",
-              "RelativeDocumentMoniker": "Compartido\\Mappers\\ClienteMappers.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ClienteMappers.cs",
-              "RelativeToolTip": "Compartido\\Mappers\\ClienteMappers.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAgwCsAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:26:35.754Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Buscador.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Buscador\\Buscador.cs",
-              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Buscador\\Buscador.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Buscador\\Buscador.cs",
-              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Buscador\\Buscador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T22:47:34.253Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 53,
               "Title": "PerfilCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Cliente\\PerfilCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Cliente\\PerfilCliente.cs",
@@ -1023,19 +1278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "ListarClienteBuscador.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Cliente\\ListarClienteBuscador.cs",
-              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Cliente\\ListarClienteBuscador.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Cliente\\ListarClienteBuscador.cs",
-              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Cliente\\ListarClienteBuscador.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwB0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:16:52.994Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 54,
               "Title": "AltaPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Prestador\\AltaPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Prestador\\AltaPrestador.cs",
@@ -1047,31 +1290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ListarPrestadorBuscador.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Prestador\\ListarPrestadorBuscador.cs",
-              "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Prestador\\ListarPrestadorBuscador.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Prestador\\ListarPrestadorBuscador.cs",
-              "RelativeToolTip": "LogicaAplicacion\\ImplementacionCU\\Prestador\\ListarPrestadorBuscador.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:45:55.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "IRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
-              "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
-              "RelativeToolTip": "LogicaNegocio\\InterfacesRepositorios\\IRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T02:10:47.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 55,
               "Title": "PerfilPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Prestador\\PerfilPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Prestador\\PerfilPrestador.cs",
@@ -1083,7 +1302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 56,
               "Title": "EliminarPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Prestador\\EliminarPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Prestador\\EliminarPrestador.cs",
@@ -1095,7 +1314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 57,
               "Title": "EditarPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Prestador\\EditarPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Prestador\\EditarPrestador.cs",
@@ -1107,7 +1326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 59,
               "Title": "RepositorioSolicitudEF.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\Repositorio\\RepositorioSolicitudEF.cs",
               "RelativeDocumentMoniker": "AccesoDatos\\Repositorio\\RepositorioSolicitudEF.cs",
@@ -1119,7 +1338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 58,
               "Title": "EditarPrestadorDto.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Prestador\\EditarPrestadorDto.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Prestador\\EditarPrestadorDto.cs",
@@ -1131,7 +1350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 60,
               "Title": "IRepositorioServicioContratado.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioServicioContratado.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioServicioContratado.cs",
@@ -1143,7 +1362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 61,
               "Title": "IRepositorioServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioServicio.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioServicio.cs",
@@ -1155,7 +1374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 62,
               "Title": "Prestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Prestador.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Prestador.cs",
@@ -1167,7 +1386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 64,
               "Title": "ConfirmarRealizacion.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\ServicioContratado\\ConfirmarRealizacion.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\ServicioContratado\\ConfirmarRealizacion.cs",
@@ -1179,7 +1398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 66,
               "Title": "AprobarSolicitud.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Solicitud\\AprobarSolicitud.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Solicitud\\AprobarSolicitud.cs",
@@ -1191,7 +1410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 63,
               "Title": "AprobarONoSolicitudDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Solicitud\\AprobarONoSolicitudDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Solicitud\\AprobarONoSolicitudDTO.cs",
@@ -1203,7 +1422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 65,
               "Title": "IConfirmarRealizacion.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioContratadoInterface\\IConfirmarRealizacion.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioContratadoInterface\\IConfirmarRealizacion.cs",
@@ -1215,7 +1434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 69,
               "Title": "ServicioRealizadoDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\ServicioContratado\\ServicioRealizadoDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\ServicioContratado\\ServicioRealizadoDTO.cs",
@@ -1227,7 +1446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 68,
               "Title": "SolicitudController.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\SolicitudController.cs",
               "RelativeDocumentMoniker": "Service\\Controllers\\SolicitudController.cs",
@@ -1239,7 +1458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 67,
               "Title": "ServicioContratadoController.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\ServicioContratadoController.cs",
               "RelativeDocumentMoniker": "Service\\Controllers\\ServicioContratadoController.cs",
@@ -1251,19 +1470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "ServicioContratadoMappers.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ServicioContratadoMappers.cs",
-              "RelativeDocumentMoniker": "Compartido\\Mappers\\ServicioContratadoMappers.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ServicioContratadoMappers.cs",
-              "RelativeToolTip": "Compartido\\Mappers\\ServicioContratadoMappers.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T02:09:40.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 70,
               "Title": "ListarServiciosContratadosPrestadorDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\ServicioContratado\\ListarServiciosContratadosPrestadorDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\ServicioContratado\\ListarServiciosContratadosPrestadorDTO.cs",
@@ -1275,7 +1482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 71,
               "Title": "ListarServicioContratadoPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\ServicioContratado\\ListarServicioContratadoPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\ServicioContratado\\ListarServicioContratadoPrestador.cs",
@@ -1287,7 +1494,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 74,
               "Title": "ListarServiciosContratadosClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\ServicioContratado\\ListarServiciosContratadosClienteDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\ServicioContratado\\ListarServiciosContratadosClienteDTO.cs",
@@ -1299,7 +1506,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 72,
               "Title": "IAprobarSolicitud.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\SolicitudInterface\\IAprobarSolicitud.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\SolicitudInterface\\IAprobarSolicitud.cs",
@@ -1311,7 +1518,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 75,
               "Title": "SolicitudMapper.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\SolicitudMapper.cs",
               "RelativeDocumentMoniker": "Compartido\\Mappers\\SolicitudMapper.cs",
@@ -1323,7 +1530,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 73,
               "Title": "ServicioContratado.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\ServicioContratado.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\ServicioContratado.cs",
@@ -1335,7 +1542,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 76,
               "Title": "Solicitud.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\Entidades\\Solicitud.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\Entidades\\Solicitud.cs",
@@ -1347,7 +1554,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 77,
               "Title": "IListarSerContratadoCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioContratadoInterface\\IListarSerContratadoCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioContratadoInterface\\IListarSerContratadoCliente.cs",
@@ -1359,7 +1566,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 78,
               "Title": "ListarServicioContratadoCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\ServicioContratado\\ListarServicioContratadoCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\ServicioContratado\\ListarServicioContratadoCliente.cs",
@@ -1371,7 +1578,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 82,
               "Title": "IListarServicioCompleto.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IListarServicioCompleto.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IListarServicioCompleto.cs",
@@ -1383,7 +1590,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 79,
               "Title": "IListarSerContratadoPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioContratadoInterface\\IListarSerContratadoPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioContratadoInterface\\IListarSerContratadoPrestador.cs",
@@ -1395,7 +1602,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 81,
               "Title": "AltaServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Servicio\\AltaServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Servicio\\AltaServicio.cs",
@@ -1407,7 +1614,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 80,
               "Title": "ServicioMappers.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ServicioMappers.cs",
               "RelativeDocumentMoniker": "Compartido\\Mappers\\ServicioMappers.cs",
@@ -1419,7 +1626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 84,
               "Title": "IAltaSolicitud.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\SolicitudInterface\\IAltaSolicitud.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\SolicitudInterface\\IAltaSolicitud.cs",
@@ -1431,7 +1638,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 85,
               "Title": "AltaSolicitudDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Solicitud\\AltaSolicitudDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Solicitud\\AltaSolicitudDTO.cs",
@@ -1443,7 +1650,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 83,
               "Title": "AltaSolicitud.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Solicitud\\AltaSolicitud.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Solicitud\\AltaSolicitud.cs",
@@ -1455,7 +1662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 86,
               "Title": "EditarServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Servicio\\EditarServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Servicio\\EditarServicio.cs",
@@ -1467,7 +1674,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 87,
               "Title": "EliminarSolicitud.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Solicitud\\EliminarSolicitud.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Solicitud\\EliminarSolicitud.cs",
@@ -1479,7 +1686,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 88,
               "Title": "IEditarServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IEditarServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IEditarServicio.cs",
@@ -1491,7 +1698,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 90,
               "Title": "ListarSolicitudes.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Solicitud\\ListarSolicitudes.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Solicitud\\ListarSolicitudes.cs",
@@ -1503,7 +1710,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 89,
               "Title": "IRepositorioSolicitud.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioSolicitud.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioSolicitud.cs",
@@ -1515,7 +1722,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 91,
               "Title": "IListarSolicitudes.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\SolicitudInterface\\IListarSolicitudes.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\SolicitudInterface\\IListarSolicitudes.cs",
@@ -1527,7 +1734,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 92,
               "Title": "EliminarServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Servicio\\EliminarServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Servicio\\EliminarServicio.cs",
@@ -1539,7 +1746,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 93,
               "Title": "IEliminarSolicitud.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\SolicitudInterface\\IEliminarSolicitud.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\SolicitudInterface\\IEliminarSolicitud.cs",
@@ -1551,7 +1758,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 94,
               "Title": "IEliminarServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IEliminarServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IEliminarServicio.cs",
@@ -1563,7 +1770,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 98,
               "Title": "IAltaServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IAltaServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IAltaServicio.cs",
@@ -1575,7 +1782,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 95,
               "Title": "ServicioAltaDto.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Servicio\\ServicioAltaDto.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Servicio\\ServicioAltaDto.cs",
@@ -1587,7 +1794,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 96,
               "Title": "AltaComentariosPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosPrestador\\AltaComentariosPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosPrestador\\AltaComentariosPrestador.cs",
@@ -1599,7 +1806,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 97,
               "Title": "IAltaComentarioPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosPrestador\\IAltaComentarioPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosPrestador\\IAltaComentarioPrestador.cs",
@@ -1611,19 +1818,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
-              "Title": "ComentariosMapper.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ComentariosMapper.cs",
-              "RelativeDocumentMoniker": "Compartido\\Mappers\\ComentariosMapper.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Mappers\\ComentariosMapper.cs",
-              "RelativeToolTip": "Compartido\\Mappers\\ComentariosMapper.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T17:12:56.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 88,
+              "DocumentIndex": 99,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\appsettings.json",
               "RelativeDocumentMoniker": "Service\\appsettings.json",
@@ -1635,7 +1830,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 90,
+              "DocumentIndex": 101,
               "Title": "ListarTodosLosDatosServicioDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Servicio\\ListarTodosLosDatosServicioDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Servicio\\ListarTodosLosDatosServicioDTO.cs",
@@ -1647,7 +1842,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 89,
+              "DocumentIndex": 100,
               "Title": "FiltrarServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Servicio\\FiltrarServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Servicio\\FiltrarServicio.cs",
@@ -1659,7 +1854,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 91,
+              "DocumentIndex": 102,
               "Title": "IPerfilPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\PrestadorInterface\\IPerfilPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\PrestadorInterface\\IPerfilPrestador.cs",
@@ -1671,7 +1866,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 92,
+              "DocumentIndex": 103,
               "Title": "ComentariosController.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Controllers\\ComentariosController.cs",
               "RelativeDocumentMoniker": "Service\\Controllers\\ComentariosController.cs",
@@ -1683,7 +1878,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 95,
+              "DocumentIndex": 106,
               "Title": "AltaComentarioPrestadorDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Comentarios\\ComentariosPrestador\\AltaComentarioPrestadorDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Comentarios\\ComentariosPrestador\\AltaComentarioPrestadorDTO.cs",
@@ -1695,7 +1890,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 93,
+              "DocumentIndex": 104,
               "Title": "PerfilPrestadorDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Prestador\\PerfilPrestadorDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Prestador\\PerfilPrestadorDTO.cs",
@@ -1707,7 +1902,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 94,
+              "DocumentIndex": 105,
               "Title": "ListarServicioChico.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Servicio\\ListarServicioChico.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Servicio\\ListarServicioChico.cs",
@@ -1719,19 +1914,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 96,
-              "Title": "ListarPrestadorBuscadorDto.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Prestador\\ListarPrestadorBuscadorDto.cs",
-              "RelativeDocumentMoniker": "Compartido\\DTOS\\Prestador\\ListarPrestadorBuscadorDto.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Prestador\\ListarPrestadorBuscadorDto.cs",
-              "RelativeToolTip": "Compartido\\DTOS\\Prestador\\ListarPrestadorBuscadorDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:36:26.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 100,
+              "DocumentIndex": 110,
               "Title": "AltaComentariosServicios.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosServicios\\AltaComentariosServicios.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosServicios\\AltaComentariosServicios.cs",
@@ -1743,7 +1926,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 98,
+              "DocumentIndex": 108,
               "Title": "IEditarComentariosServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosServicios\\IEditarComentariosServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosServicios\\IEditarComentariosServicio.cs",
@@ -1755,7 +1938,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 97,
+              "DocumentIndex": 107,
               "Title": "EditarComentariosServicios.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosServicios\\EditarComentariosServicios.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosServicios\\EditarComentariosServicios.cs",
@@ -1767,7 +1950,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 102,
+              "DocumentIndex": 112,
               "Title": "EliminarComentarioPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosPrestador\\EliminarComentarioPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosPrestador\\EliminarComentarioPrestador.cs",
@@ -1779,7 +1962,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 99,
+              "DocumentIndex": 109,
               "Title": "IRepositorioComentarioServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioComentarioServicio.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioComentarioServicio.cs",
@@ -1791,7 +1974,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 101,
+              "DocumentIndex": 111,
               "Title": "IAltaComentarioServicios.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosServicios\\IAltaComentarioServicios.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosServicios\\IAltaComentarioServicios.cs",
@@ -1803,7 +1986,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 104,
+              "DocumentIndex": 114,
               "Title": "IEliminarComentarioPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosPrestador\\IEliminarComentarioPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosPrestador\\IEliminarComentarioPrestador.cs",
@@ -1815,7 +1998,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 103,
+              "DocumentIndex": 113,
               "Title": "EditarComentariosPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosPrestador\\EditarComentariosPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosPrestador\\EditarComentariosPrestador.cs",
@@ -1827,7 +2010,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 105,
+              "DocumentIndex": 115,
               "Title": "IEliminarComentarioServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosServicios\\IEliminarComentarioServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosServicios\\IEliminarComentarioServicio.cs",
@@ -1839,7 +2022,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 106,
+              "DocumentIndex": 116,
               "Title": "EliminarComentarioServicios.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosServicios\\EliminarComentarioServicios.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Comentarios\\ComentariosServicios\\EliminarComentarioServicios.cs",
@@ -1851,7 +2034,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 107,
+              "DocumentIndex": 117,
               "Title": "EditarComentarioPrestadorDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Comentarios\\ComentariosPrestador\\EditarComentarioPrestadorDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Comentarios\\ComentariosPrestador\\EditarComentarioPrestadorDTO.cs",
@@ -1863,7 +2046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 108,
+              "DocumentIndex": 118,
               "Title": "IEditarComentariosPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosPrestador\\IEditarComentariosPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ComentariosInterface\\ComentariosPrestador\\IEditarComentariosPrestador.cs",
@@ -1875,7 +2058,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 109,
+              "DocumentIndex": 119,
               "Title": "IRepositorioComentarioPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\InterfacesRepositorios\\IRepositorioComentarioPrestador.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\InterfacesRepositorios\\IRepositorioComentarioPrestador.cs",
@@ -1887,7 +2070,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 110,
+              "DocumentIndex": 120,
               "Title": "IEditarPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\PrestadorInterface\\IEditarPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\PrestadorInterface\\IEditarPrestador.cs",
@@ -1899,7 +2082,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 111,
+              "DocumentIndex": 121,
               "Title": "IEliminarPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\PrestadorInterface\\IEliminarPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\PrestadorInterface\\IEliminarPrestador.cs",
@@ -1911,7 +2094,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 112,
+              "DocumentIndex": 122,
               "Title": "IFiltrarServicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IFiltrarServicio.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IFiltrarServicio.cs",
@@ -1923,7 +2106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 113,
+              "DocumentIndex": 123,
               "Title": "ListarBelleza.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Servicio\\ListadoInicioFijo\\ListarBelleza.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Servicio\\ListadoInicioFijo\\ListarBelleza.cs",
@@ -1935,7 +2118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 114,
+              "DocumentIndex": 124,
               "Title": "IListarBelleza.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IListadoInicioFijo\\IListarBelleza.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IListadoInicioFijo\\IListarBelleza.cs",
@@ -1947,7 +2130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 115,
+              "DocumentIndex": 125,
               "Title": "PrestadorAltaDto.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Prestador\\PrestadorAltaDto.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Prestador\\PrestadorAltaDto.cs",
@@ -1959,7 +2142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 116,
+              "DocumentIndex": 126,
               "Title": "EditarServicioDto.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Servicio\\EditarServicioDto.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Servicio\\EditarServicioDto.cs",
@@ -1971,7 +2154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 117,
+              "DocumentIndex": 127,
               "Title": "IPerfilCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IPerfilCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IPerfilCliente.cs",
@@ -1983,7 +2166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 118,
+              "DocumentIndex": 128,
               "Title": "PerfilClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Cliente\\PerfilClienteDTO.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Cliente\\PerfilClienteDTO.cs",
@@ -1995,7 +2178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 119,
+              "DocumentIndex": 129,
               "Title": "ListarLegales.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Servicio\\ListadoInicioFijo\\ListarLegales.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Servicio\\ListadoInicioFijo\\ListarLegales.cs",
@@ -2007,7 +2190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 120,
+              "DocumentIndex": 130,
               "Title": "IListarLegales.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IListadoInicioFijo\\IListarLegales.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IListadoInicioFijo\\IListarLegales.cs",
@@ -2019,7 +2202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 121,
+              "DocumentIndex": 131,
               "Title": "IListarReparaciones.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IListadoInicioFijo\\IListarReparaciones.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ServicioInterface\\IListadoInicioFijo\\IListarReparaciones.cs",
@@ -2031,7 +2214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 122,
+              "DocumentIndex": 132,
               "Title": "ListarReparaciones.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\ImplementacionCU\\Servicio\\ListadoInicioFijo\\ListarReparaciones.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\ImplementacionCU\\Servicio\\ListadoInicioFijo\\ListarReparaciones.cs",
@@ -2043,7 +2226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 123,
+              "DocumentIndex": 133,
               "Title": "20250211112941_inicio.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\Service\\AccesoDatos\\Migrations\\20250211112941_inicio.cs",
               "RelativeDocumentMoniker": "..\\..\\Service\\AccesoDatos\\Migrations\\20250211112941_inicio.cs",
@@ -2054,7 +2237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 124,
+              "DocumentIndex": 134,
               "Title": "IEditarCliente.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IEditarCliente.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IEditarCliente.cs",
@@ -2066,7 +2249,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 125,
+              "DocumentIndex": 135,
               "Title": "EditarClienteDto.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Cliente\\EditarClienteDto.cs",
               "RelativeDocumentMoniker": "Compartido\\DTOS\\Cliente\\EditarClienteDto.cs",
@@ -2078,19 +2261,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 126,
-              "Title": "IListarClienteBuscado.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IListarClienteBuscado.cs",
-              "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IListarClienteBuscado.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IListarClienteBuscado.cs",
-              "RelativeToolTip": "LogicaAplicacion\\InterfaceCU\\ClienteInterface\\IListarClienteBuscado.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:17:57.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 127,
+              "DocumentIndex": 136,
               "Title": "IAltaPrestador.cs",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\InterfaceCU\\PrestadorInterface\\IAltaPrestador.cs",
               "RelativeDocumentMoniker": "LogicaAplicacion\\InterfaceCU\\PrestadorInterface\\IAltaPrestador.cs",
@@ -2102,19 +2273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 128,
-              "Title": "ListarClientesBuscador.cs",
-              "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Cliente\\ListarClientesBuscador.cs",
-              "RelativeDocumentMoniker": "Compartido\\DTOS\\Cliente\\ListarClientesBuscador.cs",
-              "ToolTip": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\DTOS\\Cliente\\ListarClientesBuscador.cs",
-              "RelativeToolTip": "Compartido\\DTOS\\Cliente\\ListarClientesBuscador.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T20:09:20.259Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 129,
+              "DocumentIndex": 137,
               "Title": "AccesoDatos.csproj",
               "DocumentMoniker": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj",
               "RelativeDocumentMoniker": "AccesoDatos\\AccesoDatos.csproj",

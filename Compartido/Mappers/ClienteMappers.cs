@@ -43,7 +43,7 @@ namespace Compartido.Mappers
             return new ListarClientesBuscador
             {
                 Nombre = cli.Nombre,
-                Ciudad = cli.Ciudad,
+                FotoPerfil = cli.FotoPerfil,
 
             };
         }

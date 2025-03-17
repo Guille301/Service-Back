@@ -130,6 +130,8 @@ namespace Service
             //Amigos
             builder.Services.AddScoped<IAgregarAmigos, AgregarAmigos>();
             builder.Services.AddScoped<IEliminarAmigos, EliminarAmigos>();
+            builder.Services.AddScoped<IListarAmigos, ListarAmigos>();
+            builder.Services.AddScoped<IListarAmigosRecomendados, ListarAmigosRecomendados>();
 
 
 
