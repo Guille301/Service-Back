@@ -34,7 +34,7 @@ namespace Service.Controllers
 
 
         /*Alta*/
-        [HttpPost]
+        [HttpPost("AltaCliente")]
         public IActionResult Create([FromBody] ClienteAltaDTO CliDto)
         {
             try
@@ -67,7 +67,7 @@ namespace Service.Controllers
 
 
         // Editar
-        [HttpPut("{id}")]
+        [HttpPut("EditarCliente{id}")]
         public IActionResult Put(int id, [FromBody] EditarClienteDto editDto)
         {
             try 
@@ -83,7 +83,7 @@ namespace Service.Controllers
 
 
         // DELETE api/<ClienteController>/5
-        [HttpDelete("{id}")]
+        [HttpDelete("EliminarCliente{id}")]
         public IActionResult Delete(int id)
         {
 
@@ -105,7 +105,7 @@ namespace Service.Controllers
 
         //Mostrar perfil del cliente
 
-        [HttpGet("MostrarPerfil{id}")]
+        [HttpGet("MostrarPerfilCliente{id}")]
         public IActionResult MostrarPerfil(int id)
         {
             try
