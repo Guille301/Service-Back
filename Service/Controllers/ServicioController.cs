@@ -173,7 +173,7 @@ namespace Service.Controllers
 
 
         [HttpGet("Mostrar todos los datos del servicio{id}")]
-        public IActionResult MostrarPerfil(int id)
+        public IActionResult MostrarDatosDelServicio(int id)
         {
             try
             {
