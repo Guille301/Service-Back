@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Compartido")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb2d8151bd6781d97398f3d75fada9e2de58ac05")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15be2bd50e31dd748f34fac1cc5d1d826461996d")]
 [assembly: System.Reflection.AssemblyProductAttribute("Compartido")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Compartido")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

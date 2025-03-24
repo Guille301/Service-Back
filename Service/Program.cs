@@ -1,4 +1,4 @@
-
+﻿
 using AccesoDatos.Repositorio;
 using LogicaAplicacion.ImplementacionCU.Amigos;
 using LogicaAplicacion.ImplementacionCU.Buscador;
@@ -30,6 +30,16 @@ namespace Service
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy("AllowSpecificOrigin",
+                    builder => builder
+                        .WithOrigins("http://localhost:5178") // Asegúrate que coincida con tu puerto frontend
+                        .AllowAnyMethod()
+                        .AllowAnyHeader()
+                        .AllowCredentials());
+            });
 
             // Add services to the container.
 
@@ -133,13 +143,15 @@ namespace Service
             builder.Services.AddScoped<IListarAmigos, ListarAmigos>();
             builder.Services.AddScoped<IListarAmigosRecomendados, ListarAmigosRecomendados>();
 
-
+          
 
 
 
 
 
             var app = builder.Build();
+
+
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
@@ -149,13 +161,20 @@ namespace Service
             }
 
             app.UseHttpsRedirection();
+            app.UseRouting();  // ← Asegúrate que UseRouting esté presente
 
+            app.UseCors("AllowSpecificOrigin"); // ← Después de UseRouting
             app.UseAuthorization();
 
 
             app.MapControllers();
 
             app.Run();
+
+
+         
+
+
         }
     }
 }

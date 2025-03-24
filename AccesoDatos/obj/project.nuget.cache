@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xAQ3LcpwgBuOhD//xnb3eWoSgYND6MtNnPCMJi34ix1t5Q/BQWB1xrkvsVLd8ZUvvjOPwqANFAYiwegLivo3lA==",
+  "dgSpecHash": "PDkf4ge/d2ZiPK2PqdooyT1eJpfECOX6IaVOe7nvzG8n/hImkbWoJg+fVuIQVZgsXwjvBQRo/WpR90wnoN6KsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj",
+  "projectFilePath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adril\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\adril\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

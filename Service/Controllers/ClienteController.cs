@@ -35,6 +35,8 @@ namespace Service.Controllers
 
         /*Alta*/
         [HttpPost("AltaCliente")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
         public IActionResult Create([FromBody] ClienteAltaDTO CliDto)
         {
             try
