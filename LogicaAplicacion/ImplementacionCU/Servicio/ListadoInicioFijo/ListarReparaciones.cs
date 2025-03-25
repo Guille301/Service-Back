@@ -29,7 +29,7 @@ namespace LogicaAplicacion.ImplementacionCU.Servicio.ListadoInicioFijo
         {
             var servicio = _repositorioServicio.ObtenerServiciosReparaciones();
 
-            var servicioDTO = servicio.Select(d => ServicioMappers.FromServicioToListarServicioBuscador(d));
+            var servicioDTO = servicio.Select(d => ServicioMappers.FromServicioToListarServicioChico(d));
 
             return servicioDTO;
         }

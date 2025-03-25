@@ -35,7 +35,7 @@ namespace Service
             {
                 options.AddPolicy("AllowSpecificOrigin",
                     builder => builder
-                        .WithOrigins("http://localhost:5178") // Asegúrate que coincida con tu puerto frontend
+                        .WithOrigins("http://localhost:5177") // Asegúrate que coincida con tu puerto frontend
                         .AllowAnyMethod()
                         .AllowAnyHeader()
                         .AllowCredentials());
@@ -100,7 +100,7 @@ namespace Service
 
             //Servicios fijos
             builder.Services.AddScoped<IListarBelleza, ListarBelleza>();
-            builder.Services.AddScoped<IListarLegales, ListarLegales>();
+            builder.Services.AddScoped<IListarMecanico, ListarMecanico>();
             builder.Services.AddScoped<IListarReparaciones, ListarReparaciones>();
 
 

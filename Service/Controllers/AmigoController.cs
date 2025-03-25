@@ -32,9 +32,9 @@ namespace Service.Controllers
 
 
 
-        /*Alta*/
+        /*Agregar amigos*/
         [HttpPost]
-        public IActionResult Create([FromBody] AgregarAmigosDTO amigoDto)
+        public IActionResult AgregarAmigos([FromBody] AgregarAmigosDTO amigoDto)
         {
             try
             {

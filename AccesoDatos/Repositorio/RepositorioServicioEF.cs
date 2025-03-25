@@ -139,19 +139,19 @@ namespace AccesoDatos.Repositorio
             }
         }
 
-        public IEnumerable<Servicio> ObtenerServiciosLegales()
+        public IEnumerable<Servicio> ObtenerServiciosMecanicos()
         {
             try
             {
                 return _db.Servicio
-                         .Where(s => s.Categorias.Contains("Servicios legales"))
+                         .Where(s => s.Categorias.Contains("mecanico"))
                          .Distinct()
                          .Take(15)
                          .ToList();
             }
             catch (Exception ex)
             {
-                throw new Exception("Error al obtener servicios de Servicios legales", ex);
+                throw new Exception("Error al obtener servicios mecanicos", ex);
             }
         }
 

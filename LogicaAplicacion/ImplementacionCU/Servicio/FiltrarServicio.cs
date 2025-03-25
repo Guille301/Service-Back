@@ -30,7 +30,7 @@ namespace LogicaAplicacion.ImplementacionCU.Servicio
         {
             var servicio = _repositorioServicio.FiltroDeServicio(precioMinimo, precioMaximo, descripcion, zona);
 
-            var servicioDTO = servicio.Select(p => ServicioMappers.FromServicioToListarServicioBuscador(p));
+            var servicioDTO = servicio.Select(p => ServicioMappers.FromServicioToListarServicioChico(p));
 
 
             return servicioDTO;

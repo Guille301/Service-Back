@@ -10,13 +10,13 @@ using System.Threading.Tasks;
 
 namespace LogicaAplicacion.ImplementacionCU.Servicio.ListadoInicioFijo
 {
-    public class ListarLegales : IListarLegales
+    public class ListarMecanico : IListarMecanico
     {
 
         private readonly IRepositorioServicio _repositorioServicio;
 
 
-        public ListarLegales(IRepositorioServicio repoServicio)
+        public ListarMecanico(IRepositorioServicio repoServicio)
         {
             _repositorioServicio = repoServicio;
 
@@ -24,11 +24,11 @@ namespace LogicaAplicacion.ImplementacionCU.Servicio.ListadoInicioFijo
 
 
 
-        public IEnumerable<ListarServicioChico> ListarServicioLegales()
+        public IEnumerable<ListarServicioChico> ListarServicioMecanico()
         {
-            var servicio = _repositorioServicio.ObtenerServiciosBelleza();
+            var servicio = _repositorioServicio.ObtenerServiciosMecanicos();
 
-            var servicioDTO = servicio.Select(d => ServicioMappers.FromServicioToListarServicioBuscador(d));
+            var servicioDTO = servicio.Select(d => ServicioMappers.FromServicioToListarServicioChico(d));
 
             return servicioDTO;
         }

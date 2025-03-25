@@ -24,12 +24,12 @@ namespace Service.Controllers
         //Listado fijo
         private readonly IListarBelleza _listarBelleza;
         private readonly IListarReparaciones _listarReparaciones;
-        private readonly IListarLegales _listarLegales;
+        private readonly IListarMecanico _listarMecanico;
 
 
 
         public ServicioController(IAltaServicio AltaServicio, IEditarServicio editarServicio, IEliminarServicio eliminarServicio,
-                                    IListarBelleza listarBelleza,IListarReparaciones listarReparaciones,IListarLegales listarLegales ,  
+                                    IListarBelleza listarBelleza,IListarReparaciones listarReparaciones,IListarMecanico listarMecanico,  
                                     IFiltrarServicio filtrarServicio, IListarServicioCompleto listarServicioCompleto)
         {
             _altaServicio = AltaServicio;
@@ -37,7 +37,7 @@ namespace Service.Controllers
             _eliminarServicio = eliminarServicio;
             _listarBelleza = listarBelleza;
             _listarReparaciones = listarReparaciones;
-            _listarLegales = listarLegales;
+            _listarMecanico = listarMecanico;
             _filtroServicio = filtrarServicio;
             _listarServicioCompleto = listarServicioCompleto;
         }
@@ -101,7 +101,7 @@ namespace Service.Controllers
 
         /*********Listados fijos ********/
         //Listar belleza
-        [HttpGet("Listar belleza")]
+        [HttpGet("ListarBelleza")]
         public IActionResult ListarBelleza()
         {
             try
@@ -117,7 +117,7 @@ namespace Service.Controllers
 
 
         //Listar reparaciones
-        [HttpGet("Listar reparaciones")]
+        [HttpGet("ListarReparaciones")]
         public IActionResult ListarReparaciones()
         {
             try
@@ -132,13 +132,13 @@ namespace Service.Controllers
         }
 
 
-        //Listar legales
-        [HttpGet("Listar legales")]
+        //Listar mecanico
+        [HttpGet("ListarMecanico")]
         public IActionResult ListarLegales()
         {
             try
             {
-                var servicio = _listarLegales.ListarServicioLegales();
+                var servicio = _listarMecanico.ListarServicioMecanico();
                 return Ok(servicio);
             }
             catch (Exception ex)

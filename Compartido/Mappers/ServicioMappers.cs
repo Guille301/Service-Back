@@ -38,13 +38,14 @@ namespace Compartido.Mappers
 
 
         //Listar buscador
-        public static ListarServicioChico FromServicioToListarServicioBuscador(LogicaNegocio.Entidades.Servicio servicio)
+        public static ListarServicioChico FromServicioToListarServicioChico(LogicaNegocio.Entidades.Servicio servicio)
         {
             return new ListarServicioChico
             {
                 Nombre = servicio.Nombre,
                 Precio = servicio.Precio,
-                FotoServicio = servicio.ImagenesDeTrabajosSimilares
+                FotoServicio = servicio.ImagenesDeTrabajosSimilares,
+                Descripcion = servicio.Descripcion
             };
         }
 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Service\\Service.csproj": {}
+    "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj": {
+    "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj",
+        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj",
         "projectName": "AccesoDatos",
-        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj",
+        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj",
         "packagesPath": "C:\\Users\\adril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\AccesoDatos\\obj\\",
+        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adril\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj": {
-                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj"
+              "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Compartido\\Compartido.csproj": {
+    "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Compartido.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Compartido\\Compartido.csproj",
+        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Compartido.csproj",
         "projectName": "Compartido",
-        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Compartido\\Compartido.csproj",
+        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Compartido.csproj",
         "packagesPath": "C:\\Users\\adril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Compartido\\obj\\",
+        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adril\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj": {
-                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj"
+              "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj": {
+                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj"
               }
             }
           }
@@ -148,14 +148,14 @@
         }
       }
     },
-    "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj": {
+    "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj",
+        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj",
         "projectName": "LogicaAplicacion",
-        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj",
+        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj",
         "packagesPath": "C:\\Users\\adril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaAplicacion\\obj\\",
+        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adril\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,11 +172,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj": {
-                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj"
+              "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj": {
+                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\AccesoDatos\\AccesoDatos.csproj"
               },
-              "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Compartido\\Compartido.csproj": {
-                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Compartido\\Compartido.csproj"
+              "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Compartido.csproj": {
+                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Compartido.csproj"
               }
             }
           }
@@ -215,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj": {
+    "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj",
+        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj",
         "projectName": "LogicaNegocio",
-        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj",
+        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\LogicaNegocio.csproj",
         "packagesPath": "C:\\Users\\adril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaNegocio\\obj\\",
+        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaNegocio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adril\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -281,14 +281,14 @@
         }
       }
     },
-    "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Service\\Service.csproj": {
+    "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\adril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Service\\obj\\",
+        "outputPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\adril\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -305,11 +305,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Compartido\\Compartido.csproj": {
-                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\Compartido\\Compartido.csproj"
+              "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Compartido.csproj": {
+                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\Compartido\\Compartido.csproj"
               },
-              "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj": {
-                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\Proyectos\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj"
+              "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj": {
+                "projectPath": "C:\\Users\\adril\\OneDrive\\Desktop\\ProyectoService\\Service\\LogicaAplicacion\\LogicaAplicacion.csproj"
               }
             }
           }

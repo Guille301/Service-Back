@@ -7,11 +7,11 @@ using System.Threading.Tasks;
 
 namespace LogicaAplicacion.InterfaceCU.Servicio.IListadoInicioFijo
 {
-    public interface IListarLegales
+    public interface IListarMecanico
     {
 
 
-        IEnumerable<ListarServicioChico> ListarServicioLegales();
+        IEnumerable<ListarServicioChico> ListarServicioMecanico();
 
 
 

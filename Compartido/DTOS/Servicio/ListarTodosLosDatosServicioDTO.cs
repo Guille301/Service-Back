@@ -15,7 +15,6 @@ namespace Compartido.DTOS.Servicio
 
 
         public string Nombre { get; set; }
-        public string TipoDeServicio { get; set; }
         public double Precio { get; set; }
         public string Descripcion { get; set; }
         public byte[] ImagenesDeTrabajosSimilares { get; set; }

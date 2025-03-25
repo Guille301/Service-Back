@@ -15,7 +15,7 @@ namespace LogicaNegocio.InterfacesRepositorios
         IEnumerable<Servicio> ObtenerServiciosBelleza();
 
          IEnumerable<Servicio> ObtenerServiciosReparaciones();
-        IEnumerable<Servicio> ObtenerServiciosLegales();
+        IEnumerable<Servicio> ObtenerServiciosMecanicos();
 
         IEnumerable<Servicio> FiltroDeServicio(int? precioMinimo, int? precioMaximo, string? descripcion, string? zona);
 

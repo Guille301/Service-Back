@@ -10,7 +10,6 @@ namespace Compartido.DTOS.Servicio
     {
 
         public string Nombre { get; set; }
-        public string TipoDeServicio { get; set; }
         public double Precio { get; set; }
         public byte[] FotoServicio { get; set; } // 📌 Aquí recibes la imagen en Base64
 

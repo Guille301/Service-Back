@@ -90,7 +90,7 @@ namespace Service.Controllers
 
         //Aprobar o no la solicitud
         [HttpPut("Aprobar solicitud{id}")]
-        public IActionResult Put([FromBody] AprobarONoSolicitudDTO Dto)
+        public IActionResult AprobarSolicitud([FromBody] AprobarONoSolicitudDTO Dto)
         {
             try
             {
