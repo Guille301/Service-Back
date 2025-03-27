@@ -35,7 +35,7 @@ namespace Service
             {
                 options.AddPolicy("AllowSpecificOrigin",
                     builder => builder
-                        .WithOrigins("http://localhost:5177") // Asegúrate que coincida con tu puerto frontend
+                        .WithOrigins("http://localhost:5177") // Aqui debo poner la url del front
                         .AllowAnyMethod()
                         .AllowAnyHeader()
                         .AllowCredentials());
