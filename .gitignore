@@ -1,16 +1,10 @@
-# Ignorar archivos de compilación
-bin/
-obj/
-
-# Ignorar carpeta .vs de Visual Studio
-.vs/
-
-# Ignorar archivos de usuario de Visual Studio
-*.suo
+# Build and project files
+[Bb]in/
+[Oo]bj/
 *.user
+*.suo
 *.userosscache
 *.sln.docstates
 
-# Ignorar archivos de NuGet
-.nuget/
-packages/
+# Visual Studio
+.vs/
