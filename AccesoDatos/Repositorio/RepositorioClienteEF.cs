@@ -19,20 +19,34 @@ namespace AccesoDatos.Repositorio
         }
 
         //Alta
-        public void Add(Cliente obj)
+        public void Add(Cliente cliente)
         {
-
+            using var transaction = _db.Database.BeginTransaction();
             try
             {
-                _db.Cliente.Add(obj);
+                // 1. Guardar cliente
+                _db.Cliente.Add(cliente);
+                _db.SaveChanges(); // Para obtener el ID
+
+                // 2. Crear y guardar usuario
+                var usuarioCliente = new UsuarioCliente
+                {
+                    Email = cliente.Email,
+                    PasswordHash = cliente.PasswordHash,
+                    FechaCreacion = DateTime.UtcNow,
+                    ClienteId = cliente.Id
+                };
+
+                _db.UsuariosClientes.Add(usuarioCliente);
                 _db.SaveChanges();
+
+                transaction.Commit();
             }
-            catch (Exception ex)
+            catch
             {
-                throw new Exception("Error al agregar el cliente", ex);
+                transaction.Rollback();
+                throw;
             }
-
-
         }
 
         //Find by email

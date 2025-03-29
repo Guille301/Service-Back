@@ -20,6 +20,7 @@ using LogicaAplicacion.InterfaceCU.Servicio;
 using LogicaAplicacion.InterfaceCU.Servicio.IListadoInicioFijo;
 using LogicaAplicacion.InterfaceCU.ServicioContratado;
 using LogicaAplicacion.InterfaceCU.Solicitud;
+using LogicaNegocio.Entidades;
 using LogicaNegocio.InterfacesRepositorios;
 using Microsoft.EntityFrameworkCore;
 
@@ -65,6 +66,10 @@ namespace Service
             builder.Services.AddScoped<IRepositorioComentarioServicio, RepositorioComentarioServicioEF>();
             builder.Services.AddScoped<IRepositorioSolicitud, RepositorioSolicitudEF>();
             builder.Services.AddScoped<IRepositorioClienteAmigos, RepositorioClienteAmigosEF>();
+
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+            builder.Services.AddScoped<IRepositorioUsuarioCliente, RepositorioUsuarioClienteEF>();
+            builder.Services.AddScoped<IRepositorioUsuarioPrestador, RepositorioUsuarioPrestadorEF>();
 
 
 

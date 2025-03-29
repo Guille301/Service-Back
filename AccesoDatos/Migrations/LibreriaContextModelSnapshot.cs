@@ -75,21 +75,23 @@ namespace AccesoDatos.Migrations
 
             modelBuilder.Entity("LogicaNegocio.Entidades.ClienteAmigo", b =>
                 {
-                    b.Property<int>("ClienteId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("AmigoId")
-                        .HasColumnType("int");
-
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.HasKey("ClienteId", "AmigoId");
+                    b.Property<int>("AmigoId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("ClienteId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
 
                     b.HasIndex("AmigoId");
+
+                    b.HasIndex("ClienteId");
 
                     b.ToTable("ClienteAmigo");
                 });
@@ -387,6 +389,65 @@ namespace AccesoDatos.Migrations
                     b.ToTable("Solicitud");
                 });
 
+            modelBuilder.Entity("LogicaNegocio.Entidades.UsuarioCliente", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<int>("ClienteId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<DateTime>("FechaCreacion")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("PasswordHash")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("ClienteId");
+
+                    b.ToTable("UsuariosClientes");
+                });
+
+            modelBuilder.Entity("LogicaNegocio.Entidades.UsuarioPrestador", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("FechaCreacion")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("PasswordHash")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("PrestadorId")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("PrestadorId");
+
+                    b.ToTable("UsuariosPrestadores");
+                });
+
             modelBuilder.Entity("LogicaNegocio.Entidades.ClienteAmigo", b =>
                 {
                     b.HasOne("LogicaNegocio.Entidades.Cliente", "Amigo")
@@ -516,6 +577,28 @@ namespace AccesoDatos.Migrations
                     b.Navigation("cliente");
 
                     b.Navigation("servicio");
+                });
+
+            modelBuilder.Entity("LogicaNegocio.Entidades.UsuarioCliente", b =>
+                {
+                    b.HasOne("LogicaNegocio.Entidades.Cliente", "Cliente")
+                        .WithMany()
+                        .HasForeignKey("ClienteId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Cliente");
+                });
+
+            modelBuilder.Entity("LogicaNegocio.Entidades.UsuarioPrestador", b =>
+                {
+                    b.HasOne("LogicaNegocio.Entidades.Prestador", "Prestador")
+                        .WithMany()
+                        .HasForeignKey("PrestadorId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Prestador");
                 });
 
             modelBuilder.Entity("LogicaNegocio.Entidades.Cliente", b =>

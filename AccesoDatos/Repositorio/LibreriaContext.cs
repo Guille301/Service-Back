@@ -33,6 +33,12 @@ namespace AccesoDatos.Repositorio
 
         public DbSet<ClienteAmigo> ClienteAmigo { get; set; }
 
+        public DbSet<UsuarioCliente> UsuariosClientes { get; set; }
+        public DbSet<UsuarioPrestador> UsuariosPrestadores { get; set; }
+
+
+
+
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

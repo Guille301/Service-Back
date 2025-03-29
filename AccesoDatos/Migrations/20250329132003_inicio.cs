@@ -61,14 +61,14 @@ namespace AccesoDatos.Migrations
                 name: "ClienteAmigo",
                 columns: table => new
                 {
-                    ClienteId = table.Column<int>(type: "int", nullable: false),
-                    AmigoId = table.Column<int>(type: "int", nullable: false),
                     Id = table.Column<int>(type: "int", nullable: false)
-                        .Annotation("SqlServer:Identity", "1, 1")
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    ClienteId = table.Column<int>(type: "int", nullable: false),
+                    AmigoId = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_ClienteAmigo", x => new { x.ClienteId, x.AmigoId });
+                    table.PrimaryKey("PK_ClienteAmigo", x => x.Id);
                     table.ForeignKey(
                         name: "FK_ClienteAmigo_Cliente_AmigoId",
                         column: x => x.AmigoId,
@@ -81,6 +81,28 @@ namespace AccesoDatos.Migrations
                         principalTable: "Cliente",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Restrict);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "UsuariosClientes",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Email = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    PasswordHash = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    FechaCreacion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    ClienteId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_UsuariosClientes", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_UsuariosClientes_Cliente_ClienteId",
+                        column: x => x.ClienteId,
+                        principalTable: "Cliente",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
@@ -162,6 +184,28 @@ namespace AccesoDatos.Migrations
                     table.PrimaryKey("PK_Servicio", x => x.Id);
                     table.ForeignKey(
                         name: "FK_Servicio_Prestador_PrestadorId",
+                        column: x => x.PrestadorId,
+                        principalTable: "Prestador",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Cascade);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "UsuariosPrestadores",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Email = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    PasswordHash = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    FechaCreacion = table.Column<DateTime>(type: "datetime2", nullable: false),
+                    PrestadorId = table.Column<int>(type: "int", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_UsuariosPrestadores", x => x.Id);
+                    table.ForeignKey(
+                        name: "FK_UsuariosPrestadores_Prestador_PrestadorId",
                         column: x => x.PrestadorId,
                         principalTable: "Prestador",
                         principalColumn: "Id",
@@ -275,6 +319,11 @@ namespace AccesoDatos.Migrations
                 column: "AmigoId");
 
             migrationBuilder.CreateIndex(
+                name: "IX_ClienteAmigo_ClienteId",
+                table: "ClienteAmigo",
+                column: "ClienteId");
+
+            migrationBuilder.CreateIndex(
                 name: "IX_ComentariosPrestador_ClienteId",
                 table: "ComentariosPrestador",
                 column: "ClienteId");
@@ -338,6 +387,16 @@ namespace AccesoDatos.Migrations
                 name: "IX_Solicitud_PrestadorId",
                 table: "Solicitud",
                 column: "PrestadorId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_UsuariosClientes_ClienteId",
+                table: "UsuariosClientes",
+                column: "ClienteId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_UsuariosPrestadores_PrestadorId",
+                table: "UsuariosPrestadores",
+                column: "PrestadorId");
         }
 
         /// <inheritdoc />
@@ -362,10 +421,16 @@ namespace AccesoDatos.Migrations
                 name: "Solicitud");
 
             migrationBuilder.DropTable(
-                name: "Cliente");
+                name: "UsuariosClientes");
+
+            migrationBuilder.DropTable(
+                name: "UsuariosPrestadores");
 
             migrationBuilder.DropTable(
                 name: "Servicio");
+
+            migrationBuilder.DropTable(
+                name: "Cliente");
 
             migrationBuilder.DropTable(
                 name: "Prestador");

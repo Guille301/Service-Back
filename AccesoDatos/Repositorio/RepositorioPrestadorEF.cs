@@ -20,13 +20,29 @@ namespace AccesoDatos.Repositorio
 
         public void Add(Prestador obj)
         {
+            using var transaction = _db.Database.BeginTransaction();
             try
             {
                 _db.Prestador.Add(obj);
                 _db.SaveChanges();
+
+                var usuarioPrestador = new UsuarioPrestador
+                {
+                    Email = obj.Email,
+                    PasswordHash = obj.PasswordHash,
+                    FechaCreacion = DateTime.UtcNow,
+                    PrestadorId = obj.Id
+                };
+
+                _db.UsuariosPrestadores.Add(usuarioPrestador);
+                _db.SaveChanges();
+
+                transaction.Commit();
+
             }
             catch (Exception ex)
             {
+                transaction.Rollback();
                 throw new Exception("Error al agregar el prestador", ex);
             }
         }
